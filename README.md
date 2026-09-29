@@ -97,6 +97,7 @@ Created for Techwiz 7. For evaluation purposes only.
 ## 🔗 Project Links & Deliverables
 * **Public GitHub Repository:** [github.com/ghdcoders/AssureX](https://github.com/ghdcoders/AssureX)
 * **Technical Blog:** [AssureX Technical Blog](https://assurexghdcoders.blogspot.com/2026/09/building-assurex-claim-engine-next.html)
+* **Demonstration Video:** [Watch AssureX Demo on YouTube](https://youtu.be/2x7TGo2y1CA)
 
 ---
 *Created for Techwiz 7. For evaluation purposes only.*
