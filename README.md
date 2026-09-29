@@ -93,3 +93,10 @@ AssureX/
 AssureX relies on localized model inference. Uploaded Claim Summary Cards are temporarily processed in memory/local storage and purged immediately following the evaluation to ensure data privacy and compliance.
 
 Created for Techwiz 7. For evaluation purposes only.
+
+## 🔗 Project Links & Deliverables
+* **Public GitHub Repository:** [github.com/ghdcoders/AssureX](https://github.com/ghdcoders/AssureX)
+* **Technical Blog:** [AssureX Technical Blog](https://assurexghdcoders.blogspot.com/2026/09/building-assurex-claim-engine-next.html)
+
+---
+*Created for Techwiz 7. For evaluation purposes only.*
