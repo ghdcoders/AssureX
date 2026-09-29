@@ -31,5 +31,5 @@ AssureX utilizes a dual-model consensus architecture to prevent fraud and minimi
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/yourusername/AssureX.git](https://github.com/yourusername/AssureX.git)
+git clone [https://github.com/ghdcoders/AssureX.git](https://github.com/ghdcoders/AssureX.git)
 cd AssureX
