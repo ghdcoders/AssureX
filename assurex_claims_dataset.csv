@@ -1,0 +1,1501 @@
+Claim_ID,Product_Category,Product_Age_Days,Warranty_Duration_Months,Purchase_Date,Fault_Date,Receipt_Provided,Serial_Number_Match,Unauthorized_Repair_History,Damage_Type,Missing_Documents_Count,Target_Class
+CLM-82697,Refrigerator,315,36,2025-11-14,2026-03-23,False,True,False,Battery Issue,1,Invalid Claim
+CLM-40906,Refrigerator,875,24,2024-05-03,2025-09-21,False,True,False,Hardware Failure,1,Invalid Claim
+CLM-58723,Refrigerator,131,24,2026-05-17,2026-07-04,True,True,False,Battery Issue,0,Valid Claim
+CLM-91667,Laptop,329,24,2025-10-31,2026-04-27,False,True,False,Battery Issue,1,Manual Review
+CLM-92952,Refrigerator,590,24,2025-02-12,2025-06-22,True,True,False,Screen Defect,0,Valid Claim
+CLM-30010,Laptop,688,12,2024-11-06,2025-06-19,True,True,True,Battery Issue,0,Invalid Claim
+CLM-52108,Washing Machine,131,12,2026-05-17,2026-07-14,False,True,False,Screen Defect,3,Invalid Claim
+CLM-74211,Washing Machine,924,36,2024-03-15,2024-10-23,True,True,False,Water Damage,0,Manual Review
+CLM-67809,Refrigerator,549,24,2025-03-25,2025-06-16,True,True,False,Screen Defect,0,Valid Claim
+CLM-52771,Refrigerator,328,24,2025-11-01,2025-12-26,True,True,False,Software Glitch,0,Valid Claim
+CLM-35504,Refrigerator,958,36,2024-02-10,2025-07-15,True,True,False,Battery Issue,0,Valid Claim
+CLM-36361,Refrigerator,184,36,2026-03-25,2026-07-30,False,True,False,Screen Defect,2,Invalid Claim
+CLM-86159,Refrigerator,257,36,2026-01-11,2026-04-26,True,True,False,Software Glitch,0,Valid Claim
+CLM-49487,Smartphone,358,12,2025-10-02,2026-06-27,True,True,False,Hardware Failure,0,Manual Review
+CLM-50530,Smartphone,1078,36,2023-10-13,2024-02-05,True,True,False,Software Glitch,0,Manual Review
+CLM-30583,Refrigerator,527,12,2025-04-16,2026-02-04,True,True,False,Software Glitch,0,Invalid Claim
+CLM-30671,Washing Machine,817,12,2024-06-30,2025-09-15,True,True,False,Battery Issue,0,Valid Claim
+CLM-12274,Washing Machine,126,24,2026-05-22,2026-08-28,False,True,False,Hardware Failure,2,Invalid Claim
+CLM-56308,Refrigerator,426,36,2025-07-26,2025-12-27,True,True,False,Hardware Failure,0,Valid Claim
+CLM-23251,Smartphone,944,36,2024-02-24,2025-02-20,True,True,False,Software Glitch,0,Valid Claim
+CLM-76788,Smartphone,672,24,2024-11-22,2026-06-21,True,True,False,Screen Defect,0,Valid Claim
+CLM-14399,Laptop,143,24,2026-05-05,2026-09-19,True,True,True,Software Glitch,0,Invalid Claim
+CLM-31095,Refrigerator,539,12,2025-04-04,2025-10-11,True,False,False,Battery Issue,0,Invalid Claim
+CLM-25877,Refrigerator,790,12,2024-07-27,2026-09-12,True,True,False,Screen Defect,0,Valid Claim
+CLM-80538,Laptop,661,12,2024-12-03,2025-02-12,True,True,False,Screen Defect,0,Valid Claim
+CLM-68086,Refrigerator,251,12,2026-01-17,2026-05-01,True,True,False,Water Damage,0,Manual Review
+CLM-72533,Refrigerator,281,24,2025-12-18,2026-06-22,False,True,False,Screen Defect,1,Manual Review
+CLM-29863,Washing Machine,175,12,2026-04-03,2026-06-26,True,False,False,Hardware Failure,0,Invalid Claim
+CLM-17613,Washing Machine,889,24,2024-04-19,2026-01-10,True,True,False,Battery Issue,0,Valid Claim
+CLM-66009,Laptop,481,12,2025-06-01,2025-06-02,True,True,False,Hardware Failure,0,Invalid Claim
+CLM-75572,Smartphone,124,12,2026-05-24,2026-07-08,True,True,False,Screen Defect,0,Valid Claim
+CLM-44175,Refrigerator,148,12,2026-04-30,2026-09-23,True,True,False,Battery Issue,0,Manual Review
+CLM-29301,Smartphone,718,24,2024-10-07,2026-02-10,True,True,False,Hardware Failure,0,Manual Review
+CLM-51818,Laptop,43,24,2026-08-13,2026-08-21,True,True,True,Software Glitch,0,Invalid Claim
+CLM-54566,Refrigerator,197,12,2026-03-12,2026-07-23,True,True,False,Software Glitch,0,Manual Review
+CLM-81149,Laptop,312,12,2025-11-17,2026-06-16,False,True,False,Screen Defect,1,Manual Review
+CLM-49260,Washing Machine,341,24,2025-10-19,2026-03-11,True,False,False,Battery Issue,0,Invalid Claim
+CLM-63819,Washing Machine,119,12,2026-05-29,2026-06-07,True,False,False,Software Glitch,0,Invalid Claim
+CLM-97794,Laptop,711,12,2024-10-14,2025-02-24,True,True,False,Hardware Failure,0,Valid Claim
+CLM-25319,Washing Machine,700,36,2024-10-25,2026-02-27,False,True,False,Battery Issue,3,Manual Review
+CLM-80745,Refrigerator,859,36,2024-05-19,2025-06-18,False,True,False,Screen Defect,2,Manual Review
+CLM-73307,Refrigerator,505,36,2025-05-08,2026-06-17,True,True,False,Screen Defect,0,Valid Claim
+CLM-32549,Refrigerator,700,12,2024-10-25,2025-04-03,True,True,False,Screen Defect,0,Valid Claim
+CLM-61300,Refrigerator,918,36,2024-03-21,2025-01-12,True,True,False,Water Damage,0,Manual Review
+CLM-38809,Refrigerator,756,24,2024-08-30,2025-04-15,False,True,False,Hardware Failure,2,Manual Review
+CLM-65788,Washing Machine,302,24,2025-11-27,2026-05-18,False,True,False,Software Glitch,1,Manual Review
+CLM-82600,Laptop,355,12,2025-10-05,2026-07-16,True,True,False,Software Glitch,0,Manual Review
+CLM-58501,Smartphone,324,24,2025-11-05,2025-12-20,True,True,False,Software Glitch,0,Valid Claim
+CLM-97229,Refrigerator,390,12,2025-08-31,2026-08-01,True,True,False,Hardware Failure,0,Invalid Claim
+CLM-79660,Smartphone,717,24,2024-10-08,2026-06-06,True,True,False,Hardware Failure,0,Manual Review
+CLM-69550,Refrigerator,766,36,2024-08-20,2024-11-19,False,True,False,Screen Defect,3,Manual Review
+CLM-20512,Washing Machine,1232,36,2023-05-12,2026-03-30,True,True,False,Battery Issue,0,Invalid Claim
+CLM-25603,Laptop,370,24,2025-09-20,2026-05-08,False,True,False,Battery Issue,2,Manual Review
+CLM-29351,Smartphone,718,24,2024-10-07,2024-10-31,True,True,False,Software Glitch,0,Manual Review
+CLM-62115,Laptop,779,24,2024-08-07,2026-07-07,True,True,False,Hardware Failure,0,Invalid Claim
+CLM-90304,Refrigerator,716,24,2024-10-09,2025-03-28,True,True,False,Software Glitch,0,Manual Review
+CLM-26775,Refrigerator,386,24,2025-09-04,2026-09-18,True,True,False,Hardware Failure,0,Manual Review
+CLM-39319,Laptop,82,12,2026-07-05,2026-08-09,True,True,False,Water Damage,0,Manual Review
+CLM-32654,Laptop,314,36,2025-11-15,2026-03-28,True,False,False,Screen Defect,0,Invalid Claim
+CLM-95409,Smartphone,291,36,2025-12-08,2026-01-18,False,True,False,Hardware Failure,1,Invalid Claim
+CLM-28813,Washing Machine,359,12,2025-10-01,2026-03-02,True,True,False,Screen Defect,0,Manual Review
+CLM-80676,Washing Machine,57,12,2026-07-30,2026-08-01,False,True,False,Hardware Failure,2,Manual Review
+CLM-14914,Smartphone,258,36,2026-01-10,2026-06-24,True,True,True,Software Glitch,0,Invalid Claim
+CLM-23047,Laptop,359,12,2025-10-01,2025-11-29,True,True,False,Battery Issue,0,Manual Review
+CLM-31784,Washing Machine,717,24,2024-10-08,2026-06-14,True,True,False,Software Glitch,0,Manual Review
+CLM-92575,Laptop,358,12,2025-10-02,2026-05-24,True,True,False,Software Glitch,0,Manual Review
+CLM-15445,Washing Machine,357,12,2025-10-03,2026-03-16,True,True,False,Hardware Failure,0,Manual Review
+CLM-24935,Refrigerator,1075,36,2023-10-16,2025-04-09,True,True,False,Screen Defect,0,Manual Review
+CLM-62964,Laptop,666,36,2024-11-28,2026-07-14,True,True,False,Battery Issue,0,Manual Review
+CLM-80044,Smartphone,649,36,2024-12-15,2026-04-22,True,True,False,Water Damage,0,Manual Review
+CLM-71523,Smartphone,807,24,2024-07-10,2025-06-27,True,True,False,Screen Defect,0,Invalid Claim
+CLM-64899,Smartphone,173,36,2026-04-05,2026-04-21,True,True,False,Battery Issue,0,Manual Review
+CLM-42498,Laptop,1077,36,2023-10-14,2024-08-14,True,True,False,Software Glitch,0,Manual Review
+CLM-98890,Laptop,42,24,2026-08-14,2026-09-24,True,True,True,Hardware Failure,0,Invalid Claim
+CLM-23655,Washing Machine,1077,36,2023-10-14,2024-11-01,True,True,False,Hardware Failure,0,Manual Review
+CLM-88068,Laptop,246,12,2026-01-22,2026-08-09,True,True,False,Hardware Failure,0,Valid Claim
+CLM-13119,Washing Machine,382,12,2025-09-08,2026-05-12,True,True,False,Screen Defect,0,Valid Claim
+CLM-14711,Washing Machine,199,12,2026-03-10,2026-09-01,True,True,False,Battery Issue,0,Valid Claim
+CLM-54171,Washing Machine,628,36,2025-01-05,2025-04-10,True,True,False,Screen Defect,0,Valid Claim
+CLM-48798,Refrigerator,75,36,2026-07-12,2026-07-25,False,True,False,Screen Defect,1,Manual Review
+CLM-23480,Laptop,540,24,2025-04-03,2025-05-13,False,True,False,Hardware Failure,3,Manual Review
+CLM-27294,Washing Machine,68,36,2026-07-19,2026-09-11,False,True,False,Hardware Failure,1,Invalid Claim
+CLM-40826,Washing Machine,845,36,2024-06-02,2025-08-06,True,True,True,Software Glitch,0,Invalid Claim
+CLM-60443,Laptop,626,36,2025-01-07,2026-05-21,True,True,False,Water Damage,0,Manual Review
+CLM-55103,Smartphone,825,36,2024-06-22,2025-09-01,True,True,False,Hardware Failure,0,Manual Review
+CLM-82047,Refrigerator,743,12,2024-09-12,2024-12-22,True,True,False,Software Glitch,0,Valid Claim
+CLM-44469,Smartphone,162,24,2026-04-16,2026-07-12,True,True,False,Battery Issue,0,Valid Claim
+CLM-58594,Refrigerator,612,24,2025-01-21,2025-02-17,True,True,False,Water Damage,0,Manual Review
+CLM-48172,Laptop,523,12,2025-04-20,2026-07-31,True,True,False,Water Damage,0,Manual Review
+CLM-40729,Smartphone,885,24,2024-04-23,2026-02-19,True,True,False,Screen Defect,0,Manual Review
+CLM-12733,Washing Machine,146,12,2026-05-02,2026-09-03,False,True,False,Hardware Failure,1,Invalid Claim
+CLM-51780,Smartphone,512,24,2025-05-01,2026-06-24,False,True,False,Software Glitch,1,Manual Review
+CLM-14685,Washing Machine,561,24,2025-03-13,2025-11-03,True,True,False,Software Glitch,0,Valid Claim
+CLM-30884,Smartphone,168,12,2026-04-10,2026-09-03,True,True,False,Battery Issue,0,Valid Claim
+CLM-22233,Laptop,109,24,2026-06-08,2026-08-30,True,True,False,Software Glitch,0,Valid Claim
+CLM-72465,Washing Machine,358,12,2025-10-02,2026-09-25,True,True,False,Screen Defect,0,Manual Review
+CLM-66734,Refrigerator,292,36,2025-12-07,2026-04-21,True,False,False,Software Glitch,0,Invalid Claim
+CLM-20525,Laptop,861,36,2024-05-17,2024-08-05,True,True,False,Hardware Failure,0,Valid Claim
+CLM-12391,Washing Machine,1076,36,2023-10-15,2025-05-08,True,True,False,Software Glitch,0,Manual Review
+CLM-63784,Laptop,487,36,2025-05-26,2025-08-06,True,True,False,Water Damage,0,Manual Review
+CLM-83933,Laptop,954,36,2024-02-14,2025-10-07,False,True,False,Battery Issue,2,Invalid Claim
+CLM-38891,Smartphone,460,12,2025-06-22,2025-07-04,True,True,False,Software Glitch,0,Invalid Claim
+CLM-38960,Washing Machine,103,36,2026-06-14,2026-08-24,False,True,False,Screen Defect,3,Invalid Claim
+CLM-12896,Refrigerator,593,24,2025-02-09,2025-04-23,True,False,False,Software Glitch,0,Invalid Claim
+CLM-67051,Smartphone,418,36,2025-08-03,2025-11-05,True,True,False,Water Damage,0,Manual Review
+CLM-95535,Refrigerator,736,36,2024-09-19,2025-08-09,True,True,True,Screen Defect,0,Invalid Claim
+CLM-91638,Smartphone,701,36,2024-10-24,2025-01-07,True,True,False,Hardware Failure,0,Valid Claim
+CLM-80785,Laptop,190,12,2026-03-19,2026-04-04,True,True,False,Battery Issue,0,Valid Claim
+CLM-15595,Refrigerator,519,24,2025-04-24,2025-09-07,True,True,False,Software Glitch,0,Valid Claim
+CLM-51933,Refrigerator,1078,36,2023-10-13,2025-04-16,True,True,False,Screen Defect,0,Manual Review
+CLM-91331,Smartphone,455,24,2025-06-27,2026-02-24,True,True,False,Screen Defect,0,Valid Claim
+CLM-82856,Laptop,418,12,2025-08-03,2026-06-22,True,True,True,Hardware Failure,0,Invalid Claim
+CLM-24067,Washing Machine,829,12,2024-06-18,2024-07-14,False,True,False,Screen Defect,2,Invalid Claim
+CLM-24022,Washing Machine,844,24,2024-06-03,2024-06-24,True,True,False,Screen Defect,0,Manual Review
+CLM-67283,Refrigerator,975,36,2024-01-24,2024-12-26,False,True,False,Hardware Failure,2,Invalid Claim
+CLM-72626,Washing Machine,758,24,2024-08-28,2025-02-06,True,True,False,Screen Defect,0,Invalid Claim
+CLM-60051,Laptop,719,24,2024-10-06,2025-08-17,True,True,False,Hardware Failure,0,Manual Review
+CLM-86143,Refrigerator,715,24,2024-10-10,2025-09-02,True,True,False,Screen Defect,0,Manual Review
+CLM-97317,Smartphone,1148,36,2023-08-04,2025-11-07,True,True,False,Battery Issue,0,Invalid Claim
+CLM-84053,Refrigerator,441,12,2025-07-11,2026-02-25,True,True,False,Screen Defect,0,Valid Claim
+CLM-29908,Laptop,641,24,2024-12-23,2026-07-06,True,True,False,Hardware Failure,0,Manual Review
+CLM-17777,Laptop,446,36,2025-07-06,2025-08-29,False,True,False,Battery Issue,2,Manual Review
+CLM-55494,Refrigerator,666,12,2024-11-28,2025-02-16,True,True,False,Water Damage,0,Manual Review
+CLM-90537,Smartphone,511,24,2025-05-02,2026-04-07,True,True,False,Hardware Failure,0,Manual Review
+CLM-87055,Washing Machine,683,24,2024-11-11,2025-07-04,True,True,False,Battery Issue,0,Valid Claim
+CLM-25855,Refrigerator,718,12,2024-10-07,2026-09-01,True,True,False,Screen Defect,0,Valid Claim
+CLM-85716,Refrigerator,757,12,2024-08-29,2024-12-31,True,True,False,Software Glitch,0,Valid Claim
+CLM-78277,Refrigerator,902,24,2024-04-06,2025-06-04,True,True,False,Water Damage,0,Manual Review
+CLM-96359,Smartphone,610,36,2025-01-23,2026-05-24,True,True,False,Software Glitch,0,Valid Claim
+CLM-49457,Refrigerator,636,36,2024-12-28,2026-05-03,True,True,False,Hardware Failure,0,Valid Claim
+CLM-37784,Smartphone,718,24,2024-10-07,2026-05-04,True,True,False,Battery Issue,0,Manual Review
+CLM-47798,Smartphone,899,36,2024-04-09,2026-04-30,True,False,False,Hardware Failure,0,Invalid Claim
+CLM-33853,Washing Machine,801,24,2024-07-16,2026-07-21,True,True,False,Water Damage,0,Manual Review
+CLM-82081,Laptop,763,24,2024-08-23,2025-12-28,True,True,False,Battery Issue,0,Invalid Claim
+CLM-39753,Refrigerator,456,12,2025-06-26,2026-08-15,True,True,False,Water Damage,0,Manual Review
+CLM-56457,Laptop,653,24,2024-12-11,2024-12-26,True,True,False,Screen Defect,0,Valid Claim
+CLM-75850,Laptop,954,36,2024-02-14,2025-08-20,False,True,False,Battery Issue,3,Manual Review
+CLM-27335,Laptop,467,12,2025-06-15,2026-04-17,True,True,False,Water Damage,0,Manual Review
+CLM-30582,Laptop,312,36,2025-11-17,2025-12-18,True,True,False,Battery Issue,0,Valid Claim
+CLM-16943,Refrigerator,718,24,2024-10-07,2026-02-19,True,True,False,Battery Issue,0,Manual Review
+CLM-16331,Laptop,639,36,2024-12-25,2025-06-21,True,True,False,Screen Defect,0,Valid Claim
+CLM-98449,Washing Machine,358,12,2025-10-02,2026-09-20,True,True,False,Hardware Failure,0,Manual Review
+CLM-19013,Refrigerator,473,12,2025-06-09,2025-10-18,True,True,False,Water Damage,0,Manual Review
+CLM-65553,Smartphone,38,12,2026-08-18,2026-09-04,True,True,False,Screen Defect,0,Valid Claim
+CLM-73119,Laptop,210,24,2026-02-27,2026-09-14,True,True,False,Battery Issue,0,Manual Review
+CLM-83515,Smartphone,347,12,2025-10-13,2026-07-06,True,True,False,Water Damage,0,Manual Review
+CLM-82625,Refrigerator,718,24,2024-10-07,2025-10-20,True,True,False,Hardware Failure,0,Manual Review
+CLM-61910,Washing Machine,915,12,2024-03-24,2024-12-21,True,True,False,Screen Defect,0,Valid Claim
+CLM-43657,Refrigerator,295,36,2025-12-04,2026-04-01,True,True,True,Software Glitch,0,Invalid Claim
+CLM-43112,Washing Machine,428,12,2025-07-24,2025-09-24,True,False,False,Screen Defect,0,Invalid Claim
+CLM-35708,Smartphone,57,24,2026-07-30,2026-08-23,True,True,False,Water Damage,0,Manual Review
+CLM-82378,Laptop,106,36,2026-06-11,2026-06-25,True,True,True,Hardware Failure,0,Invalid Claim
+CLM-46005,Smartphone,86,36,2026-07-01,2026-08-08,True,True,False,Battery Issue,0,Valid Claim
+CLM-33152,Refrigerator,919,12,2024-03-20,2026-04-06,True,True,True,Software Glitch,0,Invalid Claim
+CLM-18633,Laptop,775,24,2024-08-11,2025-11-03,True,True,False,Water Damage,0,Manual Review
+CLM-12366,Washing Machine,334,36,2025-10-26,2026-06-30,True,True,False,Hardware Failure,0,Valid Claim
+CLM-68108,Refrigerator,860,24,2024-05-18,2024-11-07,True,True,False,Screen Defect,0,Valid Claim
+CLM-58726,Laptop,617,36,2025-01-16,2026-05-26,True,True,False,Hardware Failure,0,Valid Claim
+CLM-11371,Laptop,656,24,2024-12-08,2025-09-12,True,True,False,Hardware Failure,0,Valid Claim
+CLM-28341,Smartphone,312,12,2025-11-17,2026-07-24,True,True,False,Screen Defect,0,Valid Claim
+CLM-95827,Laptop,285,24,2025-12-14,2026-05-04,True,True,False,Screen Defect,0,Valid Claim
+CLM-34550,Refrigerator,217,12,2026-02-20,2026-06-28,True,True,False,Battery Issue,0,Valid Claim
+CLM-95273,Washing Machine,862,36,2024-05-16,2024-08-02,True,True,False,Screen Defect,0,Manual Review
+CLM-45237,Washing Machine,118,36,2026-05-30,2026-08-01,True,True,True,Battery Issue,0,Invalid Claim
+CLM-42598,Refrigerator,920,24,2024-03-19,2025-11-28,False,True,False,Battery Issue,2,Manual Review
+CLM-89250,Laptop,1244,36,2023-04-30,2026-01-24,True,True,False,Screen Defect,0,Invalid Claim
+CLM-47974,Refrigerator,21,24,2026-09-04,2026-09-22,True,True,False,Screen Defect,0,Valid Claim
+CLM-74101,Smartphone,1000,12,2023-12-30,2024-03-11,True,True,False,Battery Issue,0,Valid Claim
+CLM-30438,Laptop,664,24,2024-11-30,2026-03-16,True,True,False,Screen Defect,0,Valid Claim
+CLM-61985,Laptop,319,12,2025-11-10,2026-01-20,True,True,False,Water Damage,0,Manual Review
+CLM-28318,Refrigerator,889,12,2024-04-19,2024-11-22,True,True,False,Water Damage,0,Manual Review
+CLM-84120,Washing Machine,467,12,2025-06-15,2026-07-24,True,True,False,Hardware Failure,0,Invalid Claim
+CLM-47336,Refrigerator,469,24,2025-06-13,2025-12-09,True,True,False,Battery Issue,0,Valid Claim
+CLM-37849,Laptop,271,36,2025-12-28,2026-09-16,True,True,False,Hardware Failure,0,Valid Claim
+CLM-96514,Refrigerator,953,36,2024-02-15,2025-10-23,True,True,False,Battery Issue,0,Valid Claim
+CLM-26043,Washing Machine,1142,36,2023-08-10,2025-08-24,True,True,False,Software Glitch,0,Invalid Claim
+CLM-15251,Smartphone,165,24,2026-04-13,2026-08-02,True,True,True,Software Glitch,0,Invalid Claim
+CLM-97756,Refrigerator,150,24,2026-04-28,2026-09-18,True,True,False,Hardware Failure,0,Valid Claim
+CLM-69969,Washing Machine,489,36,2025-05-24,2025-08-27,True,True,False,Water Damage,0,Manual Review
+CLM-53942,Washing Machine,891,36,2024-04-17,2024-04-23,True,True,True,Battery Issue,0,Invalid Claim
+CLM-65203,Smartphone,206,12,2026-03-03,2026-03-20,True,True,False,Screen Defect,0,Valid Claim
+CLM-81579,Washing Machine,1177,36,2023-07-06,2025-10-16,True,True,False,Battery Issue,0,Invalid Claim
+CLM-54705,Laptop,281,12,2025-12-18,2026-08-05,True,True,False,Screen Defect,0,Valid Claim
+CLM-71366,Laptop,484,12,2025-05-29,2025-12-22,True,True,False,Software Glitch,0,Valid Claim
+CLM-98300,Refrigerator,425,24,2025-07-27,2026-02-11,True,True,True,Battery Issue,0,Invalid Claim
+CLM-33356,Smartphone,1078,36,2023-10-13,2024-11-25,True,True,False,Hardware Failure,0,Manual Review
+CLM-70516,Laptop,96,24,2026-06-21,2026-09-23,True,True,False,Hardware Failure,0,Valid Claim
+CLM-67056,Washing Machine,344,12,2025-10-16,2026-06-27,True,True,False,Hardware Failure,0,Valid Claim
+CLM-30079,Refrigerator,614,24,2025-01-19,2026-09-15,True,True,False,Software Glitch,0,Valid Claim
+CLM-55451,Smartphone,682,24,2024-11-12,2025-10-12,True,True,False,Software Glitch,0,Manual Review
+CLM-59903,Smartphone,60,24,2026-07-27,2026-08-20,True,True,False,Screen Defect,0,Manual Review
+CLM-39215,Washing Machine,662,12,2024-12-02,2026-07-02,True,True,False,Hardware Failure,0,Valid Claim
+CLM-24335,Smartphone,556,36,2025-03-18,2025-11-18,True,False,False,Software Glitch,0,Invalid Claim
+CLM-43776,Smartphone,220,36,2026-02-17,2026-07-30,True,False,False,Hardware Failure,0,Invalid Claim
+CLM-12524,Smartphone,509,12,2025-05-04,2025-12-17,True,False,False,Hardware Failure,0,Invalid Claim
+CLM-42300,Laptop,857,36,2024-05-21,2026-02-25,True,True,False,Water Damage,0,Manual Review
+CLM-20999,Laptop,715,24,2024-10-10,2024-11-07,True,True,False,Software Glitch,0,Manual Review
+CLM-70887,Smartphone,363,12,2025-09-27,2026-04-21,True,True,False,Software Glitch,0,Valid Claim
+CLM-91868,Laptop,737,24,2024-09-18,2024-12-18,True,True,False,Screen Defect,0,Invalid Claim
+CLM-67766,Laptop,1152,36,2023-07-31,2025-07-29,True,True,False,Software Glitch,0,Invalid Claim
+CLM-14374,Washing Machine,406,36,2025-08-15,2026-06-07,False,True,False,Screen Defect,3,Invalid Claim
+CLM-42795,Laptop,532,12,2025-04-11,2025-10-22,True,True,False,Battery Issue,0,Invalid Claim
+CLM-19175,Refrigerator,34,12,2026-08-22,2026-08-28,True,True,False,Water Damage,0,Manual Review
+CLM-10066,Refrigerator,998,36,2024-01-01,2026-04-02,True,True,False,Screen Defect,0,Manual Review
+CLM-28286,Refrigerator,514,12,2025-04-29,2026-09-21,True,True,False,Screen Defect,0,Invalid Claim
+CLM-94604,Refrigerator,359,24,2025-10-01,2026-04-06,True,False,False,Battery Issue,0,Invalid Claim
+CLM-49107,Refrigerator,359,12,2025-10-01,2026-09-23,True,True,False,Screen Defect,0,Manual Review
+CLM-25907,Refrigerator,18,12,2026-09-07,2026-09-11,True,True,False,Hardware Failure,0,Valid Claim
+CLM-32682,Laptop,841,36,2024-06-06,2026-09-02,True,True,False,Battery Issue,0,Valid Claim
+CLM-55210,Smartphone,884,12,2024-04-24,2025-11-01,False,True,False,Software Glitch,1,Invalid Claim
+CLM-64528,Refrigerator,153,24,2026-04-25,2026-07-02,True,True,False,Software Glitch,0,Valid Claim
+CLM-69748,Washing Machine,715,24,2024-10-10,2025-12-17,True,True,False,Screen Defect,0,Valid Claim
+CLM-55871,Laptop,782,24,2024-08-04,2025-04-16,True,True,True,Software Glitch,0,Invalid Claim
+CLM-21319,Refrigerator,715,24,2024-10-10,2025-01-19,True,True,False,Screen Defect,0,Manual Review
+CLM-52945,Laptop,1076,36,2023-10-15,2025-12-10,True,True,False,Hardware Failure,0,Manual Review
+CLM-39339,Laptop,732,24,2024-09-23,2026-01-05,True,True,False,Hardware Failure,0,Invalid Claim
+CLM-45000,Smartphone,719,24,2024-10-06,2024-12-10,True,True,False,Battery Issue,0,Manual Review
+CLM-52932,Laptop,400,24,2025-08-21,2026-06-28,True,True,False,Software Glitch,0,Valid Claim
+CLM-67620,Washing Machine,1216,36,2023-05-28,2024-07-29,True,True,False,Screen Defect,0,Invalid Claim
+CLM-66153,Refrigerator,195,12,2026-03-14,2026-03-27,False,True,False,Battery Issue,3,Invalid Claim
+CLM-86380,Laptop,386,24,2025-09-04,2025-12-27,True,True,False,Battery Issue,0,Manual Review
+CLM-22815,Washing Machine,719,24,2024-10-06,2025-03-12,True,True,False,Battery Issue,0,Manual Review
+CLM-40281,Smartphone,197,12,2026-03-12,2026-06-06,True,True,False,Screen Defect,0,Valid Claim
+CLM-27640,Washing Machine,599,24,2025-02-03,2026-05-15,True,True,False,Battery Issue,0,Valid Claim
+CLM-36371,Smartphone,18,36,2026-09-07,2026-09-16,True,True,True,Battery Issue,0,Invalid Claim
+CLM-45972,Refrigerator,392,24,2025-08-29,2026-04-15,True,True,True,Battery Issue,0,Invalid Claim
+CLM-37878,Smartphone,306,12,2025-11-23,2025-11-26,True,True,False,Hardware Failure,0,Valid Claim
+CLM-89221,Laptop,638,24,2024-12-26,2026-08-16,True,True,False,Software Glitch,0,Valid Claim
+CLM-21748,Refrigerator,718,24,2024-10-07,2025-11-01,True,True,False,Battery Issue,0,Manual Review
+CLM-67917,Refrigerator,911,24,2024-03-28,2025-09-19,True,True,True,Software Glitch,0,Invalid Claim
+CLM-98959,Laptop,24,36,2026-09-01,2026-09-15,True,True,False,Water Damage,0,Manual Review
+CLM-84217,Smartphone,573,12,2025-03-01,2026-02-19,True,True,False,Screen Defect,0,Valid Claim
+CLM-83609,Washing Machine,499,24,2025-05-14,2026-06-29,True,True,False,Water Damage,0,Manual Review
+CLM-70297,Washing Machine,272,24,2025-12-27,2026-07-23,True,True,True,Software Glitch,0,Invalid Claim
+CLM-50947,Washing Machine,176,12,2026-04-02,2026-07-15,True,True,False,Battery Issue,0,Valid Claim
+CLM-44452,Washing Machine,67,12,2026-07-20,2026-09-02,True,True,False,Software Glitch,0,Valid Claim
+CLM-57792,Washing Machine,867,24,2024-05-11,2024-05-25,True,True,False,Screen Defect,0,Manual Review
+CLM-67818,Washing Machine,866,24,2024-05-12,2025-07-08,True,True,True,Hardware Failure,0,Invalid Claim
+CLM-79869,Refrigerator,973,12,2024-01-26,2026-03-30,True,True,False,Software Glitch,0,Valid Claim
+CLM-19093,Refrigerator,169,24,2026-04-09,2026-06-02,True,True,False,Battery Issue,0,Manual Review
+CLM-14293,Washing Machine,1077,36,2023-10-14,2023-11-12,True,True,False,Battery Issue,0,Manual Review
+CLM-83119,Washing Machine,182,24,2026-03-27,2026-09-22,False,True,False,Hardware Failure,1,Manual Review
+CLM-74226,Washing Machine,673,12,2024-11-21,2026-02-08,True,True,False,Hardware Failure,0,Valid Claim
+CLM-55099,Laptop,628,36,2025-01-05,2025-12-05,True,True,False,Hardware Failure,0,Valid Claim
+CLM-49534,Smartphone,351,12,2025-10-09,2026-02-06,True,True,False,Software Glitch,0,Valid Claim
+CLM-75210,Refrigerator,398,36,2025-08-23,2026-08-21,True,True,False,Water Damage,0,Manual Review
+CLM-92054,Smartphone,873,24,2024-05-05,2026-08-04,False,True,False,Battery Issue,3,Invalid Claim
+CLM-51117,Washing Machine,510,12,2025-05-03,2026-05-10,True,True,False,Battery Issue,0,Invalid Claim
+CLM-74357,Smartphone,789,24,2024-07-28,2026-05-12,True,True,False,Battery Issue,0,Invalid Claim
+CLM-55872,Laptop,23,36,2026-09-02,2026-09-20,True,True,False,Software Glitch,0,Valid Claim
+CLM-82541,Refrigerator,790,24,2024-07-27,2025-09-28,True,True,False,Software Glitch,0,Invalid Claim
+CLM-97238,Washing Machine,298,24,2025-12-01,2026-04-28,False,True,False,Screen Defect,3,Invalid Claim
+CLM-75735,Laptop,982,12,2024-01-17,2024-04-09,True,True,False,Battery Issue,0,Manual Review
+CLM-51696,Washing Machine,24,12,2026-09-01,2026-09-03,True,True,False,Battery Issue,0,Valid Claim
+CLM-38013,Washing Machine,1076,36,2023-10-15,2025-04-30,True,True,False,Hardware Failure,0,Manual Review
+CLM-66401,Smartphone,718,24,2024-10-07,2025-01-23,True,True,False,Software Glitch,0,Manual Review
+CLM-40715,Washing Machine,1108,36,2023-09-13,2025-11-11,True,True,False,Software Glitch,0,Invalid Claim
+CLM-81118,Laptop,70,36,2026-07-17,2026-07-25,True,False,False,Hardware Failure,0,Invalid Claim
+CLM-52049,Laptop,339,24,2025-10-21,2026-01-24,True,True,False,Battery Issue,0,Valid Claim
+CLM-85943,Smartphone,395,12,2025-08-26,2026-06-19,True,True,True,Screen Defect,0,Invalid Claim
+CLM-98909,Laptop,710,24,2024-10-15,2026-04-30,False,True,False,Hardware Failure,1,Manual Review
+CLM-52878,Washing Machine,36,24,2026-08-20,2026-08-27,True,True,False,Software Glitch,0,Valid Claim
+CLM-78270,Laptop,358,12,2025-10-02,2026-03-08,True,True,False,Hardware Failure,0,Manual Review
+CLM-70294,Laptop,500,12,2025-05-13,2026-04-29,True,True,False,Battery Issue,0,Valid Claim
+CLM-76246,Washing Machine,1132,36,2023-08-20,2025-07-30,True,True,False,Screen Defect,0,Invalid Claim
+CLM-27327,Smartphone,385,24,2025-09-05,2026-09-25,False,True,False,Hardware Failure,1,Invalid Claim
+CLM-47512,Laptop,325,36,2025-11-04,2026-01-01,True,True,False,Software Glitch,0,Valid Claim
+CLM-92762,Smartphone,141,12,2026-05-07,2026-05-15,True,True,False,Water Damage,0,Manual Review
+CLM-86893,Washing Machine,355,24,2025-10-05,2025-10-27,True,False,False,Hardware Failure,0,Invalid Claim
+CLM-75977,Refrigerator,143,12,2026-05-05,2026-05-17,True,True,False,Screen Defect,0,Valid Claim
+CLM-65019,Washing Machine,483,12,2025-05-30,2026-03-08,True,True,False,Screen Defect,0,Valid Claim
+CLM-69673,Refrigerator,507,36,2025-05-06,2025-09-27,True,True,False,Battery Issue,0,Valid Claim
+CLM-64781,Refrigerator,356,12,2025-10-04,2026-08-29,True,True,False,Screen Defect,0,Manual Review
+CLM-84297,Washing Machine,518,36,2025-04-25,2025-06-07,True,True,False,Software Glitch,0,Valid Claim
+CLM-73553,Laptop,356,12,2025-10-04,2026-09-22,True,True,False,Hardware Failure,0,Manual Review
+CLM-28991,Laptop,718,24,2024-10-07,2025-01-06,True,True,False,Screen Defect,0,Manual Review
+CLM-74746,Washing Machine,803,24,2024-07-14,2026-03-31,False,True,False,Screen Defect,3,Invalid Claim
+CLM-33452,Laptop,723,24,2024-10-02,2026-08-13,False,True,False,Screen Defect,1,Invalid Claim
+CLM-69095,Washing Machine,159,24,2026-04-19,2026-09-21,False,True,False,Screen Defect,2,Invalid Claim
+CLM-31347,Refrigerator,357,12,2025-10-03,2025-12-13,True,True,False,Battery Issue,0,Manual Review
+CLM-25810,Washing Machine,715,24,2024-10-10,2026-07-27,True,True,False,Software Glitch,0,Manual Review
+CLM-20554,Washing Machine,646,36,2024-12-18,2025-08-15,True,True,False,Water Damage,0,Manual Review
+CLM-20942,Laptop,111,12,2026-06-06,2026-06-23,False,True,False,Screen Defect,1,Invalid Claim
+CLM-59590,Smartphone,1076,36,2023-10-15,2025-11-04,True,True,False,Battery Issue,0,Manual Review
+CLM-24153,Laptop,532,24,2025-04-11,2025-09-16,True,True,True,Screen Defect,0,Invalid Claim
+CLM-12493,Washing Machine,257,24,2026-01-11,2026-05-23,True,True,False,Battery Issue,0,Manual Review
+CLM-79248,Refrigerator,73,24,2026-07-14,2026-08-20,True,True,True,Hardware Failure,0,Invalid Claim
+CLM-15973,Laptop,642,12,2024-12-22,2025-12-15,True,True,False,Water Damage,0,Manual Review
+CLM-84911,Refrigerator,624,36,2025-01-09,2026-01-02,True,True,False,Hardware Failure,0,Valid Claim
+CLM-84919,Refrigerator,356,12,2025-10-04,2026-01-05,True,True,False,Hardware Failure,0,Manual Review
+CLM-94612,Refrigerator,777,12,2024-08-09,2024-10-20,False,True,False,Battery Issue,3,Manual Review
+CLM-28187,Smartphone,717,24,2024-10-08,2026-07-23,True,True,False,Software Glitch,0,Manual Review
+CLM-12278,Refrigerator,850,24,2024-05-28,2024-10-26,True,True,False,Screen Defect,0,Valid Claim
+CLM-93714,Refrigerator,251,36,2026-01-17,2026-02-11,True,True,True,Hardware Failure,0,Invalid Claim
+CLM-63098,Washing Machine,913,24,2024-03-26,2025-05-26,True,False,False,Battery Issue,0,Invalid Claim
+CLM-52699,Refrigerator,595,36,2025-02-07,2025-08-10,True,True,False,Screen Defect,0,Valid Claim
+CLM-96667,Washing Machine,300,24,2025-11-29,2026-06-22,True,True,False,Software Glitch,0,Valid Claim
+CLM-75329,Smartphone,168,36,2026-04-10,2026-05-21,True,True,False,Water Damage,0,Manual Review
+CLM-57072,Washing Machine,718,12,2024-10-07,2025-07-20,True,True,False,Battery Issue,0,Valid Claim
+CLM-75790,Smartphone,496,36,2025-05-17,2025-07-31,True,False,False,Hardware Failure,0,Invalid Claim
+CLM-82603,Smartphone,750,12,2024-09-05,2025-03-13,True,True,False,Screen Defect,0,Valid Claim
+CLM-96670,Washing Machine,327,24,2025-11-02,2026-07-26,False,True,False,Screen Defect,1,Manual Review
+CLM-12748,Smartphone,297,36,2025-12-02,2026-06-12,True,True,False,Software Glitch,0,Valid Claim
+CLM-45297,Smartphone,850,24,2024-05-28,2026-05-07,False,True,False,Battery Issue,3,Invalid Claim
+CLM-52991,Laptop,402,12,2025-08-19,2026-05-09,True,True,False,Screen Defect,0,Valid Claim
+CLM-53402,Laptop,430,36,2025-07-22,2026-07-26,False,True,False,Software Glitch,3,Invalid Claim
+CLM-56239,Smartphone,1079,36,2023-10-12,2025-05-16,True,True,False,Battery Issue,0,Manual Review
+CLM-70188,Smartphone,154,36,2026-04-24,2026-08-11,True,False,False,Screen Defect,0,Invalid Claim
+CLM-50085,Refrigerator,854,12,2024-05-24,2024-12-10,True,True,False,Hardware Failure,0,Valid Claim
+CLM-52229,Laptop,719,24,2024-10-06,2024-12-15,True,True,False,Screen Defect,0,Manual Review
+CLM-97023,Washing Machine,400,24,2025-08-21,2025-10-19,True,True,False,Software Glitch,0,Valid Claim
+CLM-35954,Refrigerator,290,36,2025-12-09,2026-01-22,True,True,True,Software Glitch,0,Invalid Claim
+CLM-89462,Laptop,414,36,2025-08-07,2026-07-04,True,True,False,Water Damage,0,Manual Review
+CLM-24751,Laptop,92,24,2026-06-25,2026-08-27,False,True,False,Battery Issue,3,Manual Review
+CLM-66749,Washing Machine,951,36,2024-02-17,2026-08-22,True,True,True,Software Glitch,0,Invalid Claim
+CLM-40895,Smartphone,980,12,2024-01-19,2025-05-04,True,True,False,Software Glitch,0,Valid Claim
+CLM-30344,Smartphone,280,24,2025-12-19,2026-09-06,True,True,False,Software Glitch,0,Valid Claim
+CLM-24522,Refrigerator,276,24,2025-12-23,2026-03-20,True,False,False,Battery Issue,0,Invalid Claim
+CLM-77114,Laptop,685,12,2024-11-09,2025-09-17,False,True,False,Hardware Failure,2,Invalid Claim
+CLM-72399,Refrigerator,314,36,2025-11-15,2026-04-22,True,True,False,Software Glitch,0,Valid Claim
+CLM-42109,Washing Machine,211,12,2026-02-26,2026-08-25,False,True,False,Screen Defect,2,Manual Review
+CLM-11008,Laptop,750,24,2024-09-05,2024-11-10,True,True,True,Battery Issue,0,Invalid Claim
+CLM-10454,Washing Machine,912,36,2024-03-27,2025-07-31,True,True,False,Battery Issue,0,Manual Review
+CLM-17974,Washing Machine,788,24,2024-07-29,2026-03-14,True,True,False,Battery Issue,0,Valid Claim
+CLM-33797,Laptop,526,24,2025-04-17,2026-06-04,True,False,False,Battery Issue,0,Invalid Claim
+CLM-81714,Smartphone,734,24,2024-09-21,2024-12-31,True,True,False,Software Glitch,0,Valid Claim
+CLM-67640,Washing Machine,719,24,2024-10-06,2025-03-05,True,True,False,Battery Issue,0,Manual Review
+CLM-94535,Laptop,519,12,2025-04-24,2025-06-08,True,True,False,Software Glitch,0,Invalid Claim
+CLM-19542,Smartphone,955,24,2024-02-13,2024-05-19,True,True,False,Battery Issue,0,Valid Claim
+CLM-17969,Refrigerator,838,36,2024-06-09,2025-06-07,True,True,True,Hardware Failure,0,Invalid Claim
+CLM-41832,Laptop,174,36,2026-04-04,2026-08-07,True,True,False,Battery Issue,0,Valid Claim
+CLM-16472,Laptop,603,12,2025-01-30,2026-08-22,True,True,False,Water Damage,0,Manual Review
+CLM-88299,Washing Machine,615,12,2025-01-18,2026-09-19,True,True,False,Battery Issue,0,Valid Claim
+CLM-17488,Washing Machine,1079,36,2023-10-12,2025-03-17,True,True,False,Screen Defect,0,Manual Review
+CLM-25889,Refrigerator,549,24,2025-03-25,2026-02-15,True,True,True,Hardware Failure,0,Invalid Claim
+CLM-71635,Smartphone,620,24,2025-01-13,2026-06-25,True,False,False,Software Glitch,0,Invalid Claim
+CLM-14791,Washing Machine,819,24,2024-06-28,2026-06-12,False,True,False,Screen Defect,3,Manual Review
+CLM-97941,Refrigerator,648,12,2024-12-16,2026-04-17,True,True,False,Screen Defect,0,Manual Review
+CLM-22488,Refrigerator,203,24,2026-03-06,2026-08-03,True,True,False,Battery Issue,0,Valid Claim
+CLM-67372,Washing Machine,202,24,2026-03-07,2026-07-24,False,True,False,Screen Defect,2,Invalid Claim
+CLM-87818,Refrigerator,124,24,2026-05-24,2026-09-15,False,True,False,Hardware Failure,3,Invalid Claim
+CLM-95807,Refrigerator,446,24,2025-07-06,2026-01-24,False,True,False,Battery Issue,2,Manual Review
+CLM-67377,Laptop,1076,36,2023-10-15,2026-07-18,True,True,False,Battery Issue,0,Manual Review
+CLM-85590,Washing Machine,984,36,2024-01-15,2024-07-21,False,True,False,Software Glitch,1,Invalid Claim
+CLM-18935,Washing Machine,319,24,2025-11-10,2026-06-21,True,True,False,Screen Defect,0,Valid Claim
+CLM-39395,Washing Machine,211,24,2026-02-26,2026-07-05,True,True,True,Software Glitch,0,Invalid Claim
+CLM-21040,Refrigerator,1078,36,2023-10-13,2025-06-24,True,True,False,Hardware Failure,0,Manual Review
+CLM-56390,Washing Machine,476,36,2025-06-06,2026-09-23,True,False,False,Battery Issue,0,Invalid Claim
+CLM-66956,Refrigerator,718,24,2024-10-07,2026-05-01,True,True,False,Screen Defect,0,Valid Claim
+CLM-65877,Laptop,651,24,2024-12-13,2025-10-30,True,True,False,Water Damage,0,Manual Review
+CLM-98823,Washing Machine,514,24,2025-04-29,2025-11-03,True,True,False,Software Glitch,0,Manual Review
+CLM-89968,Refrigerator,290,24,2025-12-09,2025-12-21,False,True,False,Hardware Failure,1,Invalid Claim
+CLM-84671,Refrigerator,119,24,2026-05-29,2026-09-16,True,True,False,Water Damage,0,Manual Review
+CLM-86158,Refrigerator,50,24,2026-08-06,2026-09-23,True,True,False,Software Glitch,0,Valid Claim
+CLM-47520,Washing Machine,968,36,2024-01-31,2025-05-21,True,True,False,Water Damage,0,Manual Review
+CLM-91645,Refrigerator,587,24,2025-02-15,2025-05-25,True,True,False,Water Damage,0,Manual Review
+CLM-37891,Smartphone,353,12,2025-10-07,2025-10-23,True,True,True,Screen Defect,0,Invalid Claim
+CLM-36973,Laptop,718,24,2024-10-07,2026-08-19,True,True,False,Battery Issue,0,Manual Review
+CLM-52494,Laptop,531,24,2025-04-12,2026-03-11,True,True,False,Software Glitch,0,Valid Claim
+CLM-89640,Refrigerator,363,24,2025-09-27,2026-05-29,True,True,False,Software Glitch,0,Valid Claim
+CLM-45623,Laptop,386,12,2025-09-04,2026-01-14,True,True,False,Software Glitch,0,Valid Claim
+CLM-73889,Refrigerator,853,24,2024-05-25,2026-08-02,True,True,False,Screen Defect,0,Invalid Claim
+CLM-20789,Laptop,822,24,2024-06-25,2025-08-08,True,True,False,Hardware Failure,0,Valid Claim
+CLM-39320,Refrigerator,187,24,2026-03-22,2026-07-23,False,True,False,Hardware Failure,1,Manual Review
+CLM-90102,Refrigerator,812,36,2024-07-05,2024-11-30,True,True,False,Screen Defect,0,Valid Claim
+CLM-97163,Refrigerator,869,12,2024-05-09,2026-01-12,True,True,False,Hardware Failure,0,Valid Claim
+CLM-65177,Laptop,57,36,2026-07-30,2026-09-04,True,False,False,Screen Defect,0,Invalid Claim
+CLM-27926,Laptop,800,24,2024-07-17,2026-03-10,True,True,False,Hardware Failure,0,Valid Claim
+CLM-80069,Laptop,949,12,2024-02-19,2024-08-19,True,True,False,Software Glitch,0,Valid Claim
+CLM-56657,Refrigerator,476,24,2025-06-06,2026-03-23,True,True,False,Water Damage,0,Manual Review
+CLM-31121,Laptop,698,12,2024-10-27,2025-04-18,True,True,False,Software Glitch,0,Valid Claim
+CLM-77776,Washing Machine,898,24,2024-04-10,2025-04-21,False,True,False,Battery Issue,3,Manual Review
+CLM-83163,Smartphone,525,36,2025-04-18,2026-02-19,True,True,False,Battery Issue,0,Valid Claim
+CLM-83558,Smartphone,227,12,2026-02-10,2026-02-28,True,True,False,Water Damage,0,Manual Review
+CLM-64504,Refrigerator,437,24,2025-07-15,2026-05-07,True,True,False,Screen Defect,0,Valid Claim
+CLM-25274,Smartphone,683,12,2024-11-11,2025-09-17,True,True,False,Software Glitch,0,Valid Claim
+CLM-73780,Laptop,690,24,2024-11-04,2025-12-08,True,True,True,Battery Issue,0,Invalid Claim
+CLM-14222,Washing Machine,719,24,2024-10-06,2025-06-23,True,True,False,Hardware Failure,0,Manual Review
+CLM-35506,Washing Machine,722,24,2024-10-03,2026-01-23,False,True,False,Screen Defect,2,Manual Review
+CLM-90276,Refrigerator,764,24,2024-08-22,2026-09-12,True,True,False,Screen Defect,0,Invalid Claim
+CLM-50618,Laptop,156,24,2026-04-22,2026-04-24,True,True,False,Screen Defect,0,Valid Claim
+CLM-22740,Washing Machine,445,24,2025-07-07,2026-08-29,True,True,False,Water Damage,0,Manual Review
+CLM-32423,Washing Machine,775,24,2024-08-11,2024-11-20,True,True,False,Water Damage,0,Manual Review
+CLM-47054,Washing Machine,418,12,2025-08-03,2025-08-09,True,True,False,Battery Issue,0,Invalid Claim
+CLM-48471,Laptop,528,12,2025-04-15,2026-02-20,True,False,False,Battery Issue,0,Invalid Claim
+CLM-33722,Laptop,771,24,2024-08-15,2025-06-30,True,True,False,Screen Defect,0,Invalid Claim
+CLM-11332,Washing Machine,1204,36,2023-06-09,2026-07-05,True,True,False,Screen Defect,0,Invalid Claim
+CLM-40822,Smartphone,709,12,2024-10-16,2026-04-28,True,False,False,Software Glitch,0,Invalid Claim
+CLM-10691,Washing Machine,501,36,2025-05-12,2026-05-01,True,True,False,Screen Defect,0,Manual Review
+CLM-50769,Refrigerator,418,36,2025-08-03,2025-08-24,True,True,False,Screen Defect,0,Valid Claim
+CLM-67808,Smartphone,727,24,2024-09-28,2025-06-08,True,True,False,Software Glitch,0,Valid Claim
+CLM-55128,Refrigerator,93,36,2026-06-24,2026-07-09,True,False,False,Hardware Failure,0,Invalid Claim
+CLM-53240,Washing Machine,212,12,2026-02-25,2026-08-12,True,True,False,Software Glitch,0,Valid Claim
+CLM-18882,Washing Machine,941,36,2024-02-27,2026-06-02,True,True,True,Software Glitch,0,Invalid Claim
+CLM-29970,Laptop,716,24,2024-10-09,2025-05-04,True,True,False,Software Glitch,0,Manual Review
+CLM-61467,Washing Machine,1194,36,2023-06-19,2023-11-18,True,True,False,Hardware Failure,0,Invalid Claim
+CLM-65430,Washing Machine,571,12,2025-03-03,2025-04-25,True,True,False,Screen Defect,0,Manual Review
+CLM-41795,Smartphone,437,24,2025-07-15,2025-09-21,True,True,False,Screen Defect,0,Valid Claim
+CLM-15031,Laptop,351,36,2025-10-09,2026-09-08,True,True,False,Hardware Failure,0,Valid Claim
+CLM-35411,Refrigerator,979,36,2024-01-20,2024-09-14,True,False,False,Screen Defect,0,Invalid Claim
+CLM-34015,Smartphone,615,24,2025-01-18,2026-05-23,False,True,False,Hardware Failure,2,Invalid Claim
+CLM-92835,Washing Machine,720,12,2024-10-05,2025-01-19,True,True,False,Battery Issue,0,Valid Claim
+CLM-93896,Smartphone,549,24,2025-03-25,2025-08-14,True,True,False,Battery Issue,0,Valid Claim
+CLM-41284,Washing Machine,1135,36,2023-08-17,2026-08-19,True,True,False,Hardware Failure,0,Invalid Claim
+CLM-61483,Washing Machine,1168,36,2023-07-15,2026-03-19,True,True,False,Software Glitch,0,Invalid Claim
+CLM-91030,Laptop,977,24,2024-01-22,2024-11-27,True,False,False,Software Glitch,0,Invalid Claim
+CLM-79298,Smartphone,828,24,2024-06-19,2026-02-27,True,True,False,Water Damage,0,Manual Review
+CLM-30269,Laptop,183,36,2026-03-26,2026-06-30,True,True,False,Battery Issue,0,Valid Claim
+CLM-67304,Refrigerator,581,24,2025-02-21,2025-04-17,True,True,False,Software Glitch,0,Valid Claim
+CLM-17550,Washing Machine,904,36,2024-04-04,2025-11-27,True,True,False,Battery Issue,0,Valid Claim
+CLM-84176,Laptop,737,36,2024-09-18,2025-01-17,True,True,False,Screen Defect,0,Valid Claim
+CLM-11955,Washing Machine,365,36,2025-09-25,2026-01-03,True,True,False,Screen Defect,0,Valid Claim
+CLM-12636,Laptop,816,24,2024-07-01,2025-11-27,False,True,False,Software Glitch,1,Manual Review
+CLM-69635,Washing Machine,977,24,2024-01-22,2025-10-29,False,True,False,Hardware Failure,3,Manual Review
+CLM-13532,Laptop,426,24,2025-07-26,2026-02-08,True,True,False,Software Glitch,0,Valid Claim
+CLM-88988,Laptop,793,12,2024-07-24,2024-10-27,True,True,True,Hardware Failure,0,Invalid Claim
+CLM-75156,Smartphone,741,12,2024-09-14,2026-04-13,True,True,True,Battery Issue,0,Invalid Claim
+CLM-52845,Smartphone,356,12,2025-10-04,2026-07-24,True,True,False,Hardware Failure,0,Manual Review
+CLM-69237,Washing Machine,671,24,2024-11-23,2025-03-25,True,True,False,Water Damage,0,Manual Review
+CLM-69604,Washing Machine,478,36,2025-06-04,2026-04-24,True,True,False,Water Damage,0,Manual Review
+CLM-10539,Washing Machine,329,12,2025-10-31,2026-08-27,True,True,False,Software Glitch,0,Valid Claim
+CLM-16784,Washing Machine,1263,36,2023-04-11,2026-09-14,True,True,False,Software Glitch,0,Invalid Claim
+CLM-78889,Smartphone,547,12,2025-03-27,2026-08-03,True,False,False,Hardware Failure,0,Invalid Claim
+CLM-28475,Washing Machine,340,36,2025-10-20,2026-02-17,True,True,False,Water Damage,0,Manual Review
+CLM-23742,Washing Machine,822,24,2024-06-25,2026-05-22,True,True,False,Software Glitch,0,Invalid Claim
+CLM-91458,Washing Machine,903,36,2024-04-05,2026-08-11,True,True,False,Software Glitch,0,Valid Claim
+CLM-76800,Washing Machine,18,24,2026-09-07,2026-09-19,True,True,False,Battery Issue,0,Valid Claim
+CLM-98981,Laptop,1175,36,2023-07-08,2024-02-03,True,True,False,Battery Issue,0,Invalid Claim
+CLM-95617,Smartphone,226,36,2026-02-11,2026-04-03,True,True,False,Software Glitch,0,Valid Claim
+CLM-17036,Refrigerator,519,12,2025-04-24,2026-06-26,True,True,False,Battery Issue,0,Invalid Claim
+CLM-58837,Laptop,508,36,2025-05-05,2026-08-13,False,True,False,Battery Issue,1,Invalid Claim
+CLM-55050,Washing Machine,951,24,2024-02-17,2026-02-15,True,True,False,Software Glitch,0,Valid Claim
+CLM-39048,Refrigerator,189,36,2026-03-20,2026-05-13,False,True,False,Battery Issue,1,Invalid Claim
+CLM-51329,Smartphone,439,36,2025-07-13,2025-12-15,True,True,False,Hardware Failure,0,Valid Claim
+CLM-70092,Smartphone,634,24,2024-12-30,2026-05-28,True,False,False,Screen Defect,0,Invalid Claim
+CLM-94453,Laptop,758,12,2024-08-28,2024-08-30,True,True,False,Screen Defect,0,Valid Claim
+CLM-54139,Laptop,817,36,2024-06-30,2024-08-08,True,False,False,Battery Issue,0,Invalid Claim
+CLM-79095,Laptop,745,24,2024-09-10,2025-05-02,True,True,False,Battery Issue,0,Invalid Claim
+CLM-52555,Refrigerator,643,24,2024-12-21,2025-11-26,True,True,False,Water Damage,0,Manual Review
+CLM-52567,Laptop,292,24,2025-12-07,2026-08-15,False,True,False,Screen Defect,3,Invalid Claim
+CLM-58561,Smartphone,718,24,2024-10-07,2025-04-14,True,True,False,Battery Issue,0,Manual Review
+CLM-17759,Smartphone,718,24,2024-10-07,2025-12-31,True,True,False,Battery Issue,0,Manual Review
+CLM-86569,Refrigerator,1075,36,2023-10-16,2025-11-27,True,True,False,Screen Defect,0,Manual Review
+CLM-12593,Washing Machine,991,12,2024-01-08,2026-05-08,True,True,False,Software Glitch,0,Valid Claim
+CLM-65619,Refrigerator,871,24,2024-05-07,2025-11-16,True,True,True,Software Glitch,0,Invalid Claim
+CLM-59129,Washing Machine,450,36,2025-07-02,2025-08-17,True,True,False,Water Damage,0,Manual Review
+CLM-11640,Washing Machine,818,36,2024-06-29,2025-04-01,True,True,False,Screen Defect,0,Valid Claim
+CLM-86261,Smartphone,325,36,2025-11-04,2026-02-02,True,True,False,Battery Issue,0,Valid Claim
+CLM-83546,Refrigerator,552,12,2025-03-22,2025-08-07,True,True,False,Hardware Failure,0,Invalid Claim
+CLM-60534,Washing Machine,475,24,2025-06-07,2025-09-25,True,True,False,Battery Issue,0,Valid Claim
+CLM-20735,Washing Machine,678,12,2024-11-16,2026-03-02,True,True,False,Battery Issue,0,Valid Claim
+CLM-42935,Smartphone,1075,36,2023-10-16,2023-10-20,True,True,False,Battery Issue,0,Manual Review
+CLM-14090,Washing Machine,462,24,2025-06-20,2025-07-30,True,True,False,Hardware Failure,0,Valid Claim
+CLM-16688,Washing Machine,921,36,2024-03-18,2025-10-23,True,True,False,Battery Issue,0,Manual Review
+CLM-66550,Laptop,158,12,2026-04-20,2026-09-22,True,False,False,Battery Issue,0,Invalid Claim
+CLM-46179,Laptop,324,24,2025-11-05,2026-08-29,True,True,False,Water Damage,0,Manual Review
+CLM-77161,Smartphone,1077,36,2023-10-14,2024-07-08,True,True,False,Battery Issue,0,Manual Review
+CLM-29716,Refrigerator,1076,36,2023-10-15,2026-05-30,True,True,False,Software Glitch,0,Manual Review
+CLM-46359,Smartphone,684,12,2024-11-10,2026-05-22,True,True,False,Hardware Failure,0,Valid Claim
+CLM-95852,Laptop,715,24,2024-10-10,2025-06-17,True,True,False,Battery Issue,0,Manual Review
+CLM-34899,Refrigerator,431,36,2025-07-21,2026-04-30,True,True,False,Screen Defect,0,Valid Claim
+CLM-84481,Laptop,828,24,2024-06-19,2025-11-24,True,True,False,Battery Issue,0,Invalid Claim
+CLM-45567,Laptop,170,12,2026-04-08,2026-05-05,True,True,False,Screen Defect,0,Valid Claim
+CLM-29596,Smartphone,355,12,2025-10-05,2025-11-05,True,True,False,Screen Defect,0,Manual Review
+CLM-84830,Laptop,734,12,2024-09-21,2025-04-07,True,True,False,Hardware Failure,0,Manual Review
+CLM-42271,Smartphone,226,24,2026-02-11,2026-09-06,True,False,False,Battery Issue,0,Invalid Claim
+CLM-43929,Smartphone,357,12,2025-10-03,2026-01-29,True,True,False,Software Glitch,0,Manual Review
+CLM-56590,Washing Machine,974,36,2024-01-25,2025-10-25,True,False,False,Hardware Failure,0,Invalid Claim
+CLM-52521,Laptop,487,24,2025-05-26,2025-09-29,True,True,False,Water Damage,0,Manual Review
+CLM-72693,Refrigerator,323,36,2025-11-06,2026-07-22,True,True,False,Software Glitch,0,Valid Claim
+CLM-21698,Refrigerator,816,24,2024-07-01,2026-05-06,True,False,False,Screen Defect,0,Invalid Claim
+CLM-97059,Refrigerator,811,24,2024-07-06,2025-10-28,True,True,False,Hardware Failure,0,Invalid Claim
+CLM-72194,Laptop,1079,36,2023-10-12,2026-02-16,True,True,False,Hardware Failure,0,Manual Review
+CLM-38861,Smartphone,508,12,2025-05-05,2026-06-01,False,True,False,Hardware Failure,1,Invalid Claim
+CLM-64570,Smartphone,172,12,2026-04-06,2026-04-19,False,True,False,Software Glitch,1,Invalid Claim
+CLM-17634,Smartphone,171,36,2026-04-07,2026-06-15,True,False,False,Battery Issue,0,Invalid Claim
+CLM-79638,Smartphone,103,24,2026-06-14,2026-07-28,True,False,False,Battery Issue,0,Invalid Claim
+CLM-92772,Smartphone,356,12,2025-10-04,2026-05-26,True,True,False,Battery Issue,0,Valid Claim
+CLM-38972,Laptop,487,24,2025-05-26,2025-09-13,True,True,False,Hardware Failure,0,Valid Claim
+CLM-44261,Washing Machine,324,36,2025-11-05,2026-02-04,False,True,False,Battery Issue,1,Manual Review
+CLM-24021,Laptop,538,12,2025-04-05,2025-06-25,True,False,False,Screen Defect,0,Invalid Claim
+CLM-78648,Refrigerator,637,36,2024-12-27,2025-09-15,True,True,False,Battery Issue,0,Valid Claim
+CLM-17520,Washing Machine,39,12,2026-08-17,2026-09-22,True,True,False,Software Glitch,0,Valid Claim
+CLM-85559,Washing Machine,785,12,2024-08-01,2026-01-11,True,True,False,Software Glitch,0,Valid Claim
+CLM-58845,Laptop,988,24,2024-01-11,2024-01-12,False,True,False,Screen Defect,3,Invalid Claim
+CLM-44191,Laptop,645,12,2024-12-19,2026-02-17,False,True,False,Screen Defect,1,Manual Review
+CLM-20980,Laptop,701,36,2024-10-24,2025-08-11,True,True,False,Screen Defect,0,Manual Review
+CLM-55338,Washing Machine,230,36,2026-02-07,2026-08-08,True,True,False,Battery Issue,0,Valid Claim
+CLM-41220,Refrigerator,352,24,2025-10-08,2026-07-18,True,True,True,Software Glitch,0,Invalid Claim
+CLM-38325,Washing Machine,358,12,2025-10-02,2026-08-08,True,True,False,Hardware Failure,0,Manual Review
+CLM-20460,Refrigerator,58,24,2026-07-29,2026-09-02,True,True,False,Software Glitch,0,Manual Review
+CLM-44819,Laptop,243,24,2026-01-25,2026-04-13,True,True,False,Screen Defect,0,Valid Claim
+CLM-80638,Smartphone,951,12,2024-02-17,2026-08-13,True,True,False,Software Glitch,0,Valid Claim
+CLM-88139,Smartphone,398,12,2025-08-23,2026-04-14,True,True,False,Hardware Failure,0,Invalid Claim
+CLM-37860,Smartphone,81,24,2026-07-06,2026-09-20,False,True,False,Hardware Failure,3,Invalid Claim
+CLM-43260,Smartphone,917,24,2024-03-22,2026-08-29,False,True,False,Battery Issue,3,Invalid Claim
+CLM-81262,Smartphone,356,12,2025-10-04,2026-07-29,True,True,False,Battery Issue,0,Manual Review
+CLM-82606,Laptop,355,12,2025-10-05,2026-08-28,True,True,False,Screen Defect,0,Manual Review
+CLM-43057,Refrigerator,363,36,2025-09-27,2026-07-24,True,True,False,Battery Issue,0,Valid Claim
+CLM-86502,Refrigerator,819,24,2024-06-28,2024-11-05,True,True,False,Water Damage,0,Manual Review
+CLM-73503,Smartphone,719,24,2024-10-06,2024-12-18,True,True,False,Screen Defect,0,Manual Review
+CLM-30569,Smartphone,436,12,2025-07-16,2026-05-10,True,True,False,Hardware Failure,0,Invalid Claim
+CLM-25120,Laptop,61,24,2026-07-26,2026-08-24,False,True,False,Hardware Failure,3,Manual Review
+CLM-85271,Smartphone,958,36,2024-02-10,2025-06-08,True,True,False,Hardware Failure,0,Valid Claim
+CLM-14177,Refrigerator,669,12,2024-11-25,2025-08-05,True,True,False,Software Glitch,0,Valid Claim
+CLM-97677,Smartphone,960,24,2024-02-08,2026-03-20,False,True,False,Screen Defect,2,Invalid Claim
+CLM-23782,Smartphone,645,24,2024-12-19,2026-04-23,True,True,True,Hardware Failure,0,Invalid Claim
+CLM-64981,Smartphone,777,12,2024-08-09,2026-08-03,False,True,False,Screen Defect,2,Manual Review
+CLM-41017,Laptop,201,24,2026-03-08,2026-03-26,True,True,False,Screen Defect,0,Manual Review
+CLM-17236,Smartphone,511,12,2025-05-02,2026-07-30,True,True,True,Battery Issue,0,Invalid Claim
+CLM-71568,Washing Machine,179,12,2026-03-30,2026-09-09,True,True,False,Screen Defect,0,Valid Claim
+CLM-11997,Refrigerator,567,24,2025-03-07,2025-08-15,True,True,False,Software Glitch,0,Manual Review
+CLM-77779,Smartphone,1079,36,2023-10-12,2024-06-10,True,True,False,Battery Issue,0,Manual Review
+CLM-64710,Refrigerator,618,36,2025-01-15,2026-06-02,True,True,False,Water Damage,0,Manual Review
+CLM-46969,Washing Machine,232,12,2026-02-05,2026-09-03,True,True,False,Battery Issue,0,Valid Claim
+CLM-45044,Refrigerator,908,12,2024-03-31,2026-04-17,True,True,True,Software Glitch,0,Invalid Claim
+CLM-42490,Laptop,357,12,2025-10-03,2026-09-13,True,True,False,Battery Issue,0,Manual Review
+CLM-10715,Refrigerator,43,36,2026-08-13,2026-08-26,True,False,False,Battery Issue,0,Invalid Claim
+CLM-17380,Laptop,726,36,2024-09-29,2025-04-30,True,True,False,Hardware Failure,0,Valid Claim
+CLM-32575,Smartphone,70,24,2026-07-17,2026-08-13,False,True,False,Screen Defect,1,Manual Review
+CLM-37895,Laptop,880,24,2024-04-28,2025-01-15,True,True,False,Screen Defect,0,Manual Review
+CLM-85947,Smartphone,838,24,2024-06-09,2026-04-02,True,True,False,Hardware Failure,0,Invalid Claim
+CLM-58650,Refrigerator,193,12,2026-03-16,2026-05-15,True,False,False,Screen Defect,0,Invalid Claim
+CLM-60407,Refrigerator,826,36,2024-06-21,2025-11-08,True,True,False,Water Damage,0,Manual Review
+CLM-36605,Laptop,697,24,2024-10-28,2026-05-27,False,True,False,Hardware Failure,3,Manual Review
+CLM-14117,Washing Machine,540,24,2025-04-03,2026-05-24,True,True,False,Software Glitch,0,Manual Review
+CLM-24323,Smartphone,24,24,2026-09-01,2026-09-18,True,True,False,Screen Defect,0,Valid Claim
+CLM-75134,Washing Machine,718,24,2024-10-07,2025-09-27,True,True,False,Screen Defect,0,Manual Review
+CLM-40034,Smartphone,57,12,2026-07-30,2026-08-05,True,True,False,Software Glitch,0,Valid Claim
+CLM-48598,Washing Machine,565,12,2025-03-09,2025-04-23,True,True,False,Screen Defect,0,Manual Review
+CLM-22575,Smartphone,349,36,2025-10-11,2026-09-13,True,False,False,Software Glitch,0,Invalid Claim
+CLM-41887,Washing Machine,262,36,2026-01-06,2026-08-19,True,True,False,Water Damage,0,Manual Review
+CLM-70656,Smartphone,503,36,2025-05-10,2026-05-19,True,True,False,Battery Issue,0,Valid Claim
+CLM-77691,Washing Machine,793,24,2024-07-24,2025-01-17,True,True,False,Software Glitch,0,Manual Review
+CLM-95237,Laptop,456,24,2025-06-26,2025-07-03,True,True,False,Water Damage,0,Manual Review
+CLM-21494,Smartphone,322,24,2025-11-07,2025-11-27,False,True,False,Screen Defect,2,Invalid Claim
+CLM-13777,Smartphone,192,36,2026-03-17,2026-08-04,True,True,False,Software Glitch,0,Valid Claim
+CLM-12644,Refrigerator,99,36,2026-06-18,2026-07-25,True,True,True,Hardware Failure,0,Invalid Claim
+CLM-10196,Laptop,381,36,2025-09-09,2025-11-15,True,True,False,Screen Defect,0,Valid Claim
+CLM-95334,Smartphone,875,12,2024-05-03,2026-01-27,True,True,False,Water Damage,0,Manual Review
+CLM-23551,Washing Machine,578,12,2025-02-24,2025-08-30,True,False,False,Software Glitch,0,Invalid Claim
+CLM-68088,Laptop,179,24,2026-03-30,2026-07-22,False,True,False,Battery Issue,3,Invalid Claim
+CLM-54345,Laptop,319,36,2025-11-10,2025-11-24,True,True,False,Water Damage,0,Manual Review
+CLM-87289,Washing Machine,206,36,2026-03-03,2026-03-24,True,True,False,Hardware Failure,0,Valid Claim
+CLM-79459,Washing Machine,867,36,2024-05-11,2025-04-10,True,True,False,Water Damage,0,Manual Review
+CLM-63057,Washing Machine,839,24,2024-06-08,2026-04-18,True,True,False,Screen Defect,0,Valid Claim
+CLM-98629,Laptop,754,24,2024-09-01,2025-04-13,True,True,False,Hardware Failure,0,Valid Claim
+CLM-56444,Smartphone,484,36,2025-05-29,2026-03-07,True,False,False,Screen Defect,0,Invalid Claim
+CLM-84522,Smartphone,471,12,2025-06-11,2026-07-01,True,True,False,Water Damage,0,Manual Review
+CLM-82045,Laptop,870,24,2024-05-08,2025-07-25,True,True,True,Screen Defect,0,Invalid Claim
+CLM-25811,Smartphone,542,24,2025-04-01,2026-04-05,True,True,False,Battery Issue,0,Valid Claim
+CLM-80512,Smartphone,411,36,2025-08-10,2025-08-30,True,True,False,Screen Defect,0,Valid Claim
+CLM-23362,Refrigerator,649,24,2024-12-15,2025-05-08,True,True,True,Screen Defect,0,Invalid Claim
+CLM-71992,Washing Machine,865,12,2024-05-13,2024-12-28,True,True,False,Battery Issue,0,Valid Claim
+CLM-52695,Laptop,370,36,2025-09-20,2026-05-16,True,True,False,Software Glitch,0,Valid Claim
+CLM-86469,Laptop,19,12,2026-09-06,2026-09-22,True,True,False,Hardware Failure,0,Valid Claim
+CLM-55343,Smartphone,777,24,2024-08-09,2026-09-06,True,False,False,Screen Defect,0,Invalid Claim
+CLM-84569,Refrigerator,493,24,2025-05-20,2026-08-02,True,False,False,Battery Issue,0,Invalid Claim
+CLM-29532,Refrigerator,83,36,2026-07-04,2026-07-05,False,True,False,Software Glitch,2,Manual Review
+CLM-98032,Refrigerator,692,36,2024-11-02,2026-06-17,True,True,False,Water Damage,0,Manual Review
+CLM-22282,Smartphone,716,24,2024-10-09,2025-11-30,True,True,False,Screen Defect,0,Manual Review
+CLM-62721,Laptop,987,12,2024-01-12,2024-11-05,True,True,False,Hardware Failure,0,Valid Claim
+CLM-85722,Laptop,404,12,2025-08-17,2025-10-23,True,True,False,Screen Defect,0,Valid Claim
+CLM-98388,Refrigerator,612,24,2025-01-21,2026-05-18,True,False,False,Hardware Failure,0,Invalid Claim
+CLM-63440,Laptop,386,12,2025-09-04,2026-04-09,True,True,False,Screen Defect,0,Invalid Claim
+CLM-78347,Laptop,969,36,2024-01-30,2025-07-07,False,True,False,Battery Issue,3,Invalid Claim
+CLM-41551,Laptop,757,24,2024-08-29,2025-10-17,True,False,False,Hardware Failure,0,Invalid Claim
+CLM-77966,Laptop,674,36,2024-11-20,2026-02-17,True,True,False,Hardware Failure,0,Valid Claim
+CLM-32668,Refrigerator,509,36,2025-05-04,2025-10-24,False,True,False,Software Glitch,2,Manual Review
+CLM-37397,Smartphone,47,12,2026-08-09,2026-09-03,False,True,False,Software Glitch,2,Manual Review
+CLM-26662,Laptop,764,12,2024-08-22,2026-02-26,True,True,False,Hardware Failure,0,Valid Claim
+CLM-84604,Laptop,255,24,2026-01-13,2026-07-16,True,True,True,Screen Defect,0,Invalid Claim
+CLM-45168,Washing Machine,513,12,2025-04-30,2026-04-04,True,True,False,Battery Issue,0,Invalid Claim
+CLM-55434,Refrigerator,159,12,2026-04-19,2026-05-05,True,True,False,Water Damage,0,Manual Review
+CLM-29137,Washing Machine,562,36,2025-03-12,2025-05-07,True,True,False,Screen Defect,0,Valid Claim
+CLM-70305,Smartphone,824,24,2024-06-23,2024-10-23,True,True,False,Software Glitch,0,Invalid Claim
+CLM-38563,Refrigerator,343,24,2025-10-17,2025-12-18,True,True,False,Water Damage,0,Manual Review
+CLM-76753,Laptop,1079,36,2023-10-12,2025-08-20,True,True,False,Software Glitch,0,Manual Review
+CLM-93589,Refrigerator,549,12,2025-03-25,2025-07-15,True,True,False,Hardware Failure,0,Valid Claim
+CLM-38759,Laptop,339,24,2025-10-21,2025-11-01,True,True,False,Software Glitch,0,Valid Claim
+CLM-82040,Laptop,816,12,2024-07-01,2024-08-16,True,True,False,Hardware Failure,0,Valid Claim
+CLM-33528,Refrigerator,1075,36,2023-10-16,2026-08-01,True,True,False,Screen Defect,0,Manual Review
+CLM-61007,Laptop,339,12,2025-10-21,2026-04-22,True,True,False,Software Glitch,0,Valid Claim
+CLM-71756,Smartphone,211,24,2026-02-26,2026-05-18,True,True,False,Screen Defect,0,Valid Claim
+CLM-50405,Refrigerator,330,12,2025-10-30,2025-12-28,False,True,False,Software Glitch,2,Manual Review
+CLM-12904,Laptop,844,36,2024-06-03,2025-03-21,True,True,False,Screen Defect,0,Valid Claim
+CLM-80710,Laptop,735,12,2024-09-20,2026-07-30,True,True,True,Hardware Failure,0,Invalid Claim
+CLM-78036,Refrigerator,697,12,2024-10-28,2025-09-19,True,True,False,Screen Defect,0,Valid Claim
+CLM-44225,Refrigerator,577,24,2025-02-25,2025-03-05,True,True,False,Software Glitch,0,Valid Claim
+CLM-41694,Refrigerator,926,36,2024-03-13,2026-01-02,True,True,False,Water Damage,0,Manual Review
+CLM-49708,Refrigerator,508,24,2025-05-05,2026-09-02,True,True,False,Hardware Failure,0,Valid Claim
+CLM-53741,Smartphone,821,24,2024-06-26,2024-12-17,True,True,False,Hardware Failure,0,Valid Claim
+CLM-13252,Laptop,356,12,2025-10-04,2026-09-08,True,True,False,Screen Defect,0,Manual Review
+CLM-33200,Laptop,737,24,2024-09-18,2025-10-20,True,True,False,Screen Defect,0,Invalid Claim
+CLM-37251,Refrigerator,849,12,2024-05-29,2024-06-20,True,True,False,Hardware Failure,0,Valid Claim
+CLM-27264,Laptop,538,36,2025-04-05,2025-12-05,True,True,False,Hardware Failure,0,Manual Review
+CLM-83155,Smartphone,886,36,2024-04-22,2025-06-30,True,False,False,Battery Issue,0,Invalid Claim
+CLM-58573,Refrigerator,716,24,2024-10-09,2026-03-29,True,True,False,Battery Issue,0,Manual Review
+CLM-80216,Laptop,108,24,2026-06-09,2026-06-17,True,True,False,Water Damage,0,Manual Review
+CLM-61328,Refrigerator,443,36,2025-07-09,2026-01-12,True,True,False,Water Damage,0,Manual Review
+CLM-82221,Laptop,944,12,2024-02-24,2024-11-24,True,True,False,Software Glitch,0,Valid Claim
+CLM-30869,Smartphone,190,12,2026-03-19,2026-06-13,True,True,False,Battery Issue,0,Valid Claim
+CLM-26108,Washing Machine,21,12,2026-09-04,2026-09-21,False,True,False,Hardware Failure,1,Invalid Claim
+CLM-81552,Laptop,708,12,2024-10-17,2026-03-22,True,True,True,Hardware Failure,0,Invalid Claim
+CLM-49930,Washing Machine,58,36,2026-07-29,2026-09-01,True,False,False,Hardware Failure,0,Invalid Claim
+CLM-71551,Washing Machine,535,12,2025-04-08,2026-06-08,True,True,False,Screen Defect,0,Invalid Claim
+CLM-78747,Laptop,960,24,2024-02-08,2026-02-08,True,True,False,Hardware Failure,0,Valid Claim
+CLM-41714,Smartphone,187,24,2026-03-22,2026-05-13,True,False,False,Hardware Failure,0,Invalid Claim
+CLM-37745,Smartphone,751,36,2024-09-04,2026-09-10,True,True,False,Battery Issue,0,Manual Review
+CLM-93559,Smartphone,633,24,2024-12-31,2025-11-03,True,True,False,Battery Issue,0,Valid Claim
+CLM-42005,Laptop,203,36,2026-03-06,2026-05-14,False,True,False,Screen Defect,3,Manual Review
+CLM-37293,Refrigerator,880,36,2024-04-28,2024-09-29,True,True,False,Hardware Failure,0,Valid Claim
+CLM-17129,Refrigerator,1139,36,2023-08-13,2024-03-22,True,True,False,Hardware Failure,0,Invalid Claim
+CLM-26636,Refrigerator,244,24,2026-01-24,2026-03-22,True,True,False,Water Damage,0,Manual Review
+CLM-20048,Smartphone,360,36,2025-09-30,2026-07-03,True,True,False,Water Damage,0,Manual Review
+CLM-14460,Refrigerator,765,24,2024-08-21,2026-07-04,True,True,False,Water Damage,0,Manual Review
+CLM-99932,Refrigerator,638,36,2024-12-26,2025-08-01,True,True,False,Hardware Failure,0,Valid Claim
+CLM-70168,Washing Machine,532,36,2025-04-11,2025-05-16,False,True,False,Hardware Failure,1,Invalid Claim
+CLM-99473,Smartphone,856,12,2024-05-22,2025-10-22,True,True,True,Software Glitch,0,Invalid Claim
+CLM-54643,Washing Machine,586,36,2025-02-16,2026-09-01,True,True,False,Water Damage,0,Manual Review
+CLM-96039,Laptop,845,36,2024-06-02,2024-09-09,True,True,False,Software Glitch,0,Manual Review
+CLM-64798,Smartphone,276,12,2025-12-23,2026-01-07,True,False,False,Hardware Failure,0,Invalid Claim
+CLM-54209,Refrigerator,691,36,2024-11-03,2025-02-17,False,True,False,Screen Defect,1,Manual Review
+CLM-72954,Refrigerator,784,36,2024-08-02,2025-07-05,True,True,False,Water Damage,0,Manual Review
+CLM-48450,Laptop,233,12,2026-02-04,2026-04-12,True,True,True,Battery Issue,0,Invalid Claim
+CLM-50515,Laptop,679,12,2024-11-15,2025-12-20,True,True,True,Battery Issue,0,Invalid Claim
+CLM-72491,Washing Machine,798,24,2024-07-19,2025-01-23,True,True,False,Hardware Failure,0,Valid Claim
+CLM-50639,Refrigerator,34,12,2026-08-22,2026-09-17,True,True,False,Software Glitch,0,Valid Claim
+CLM-85663,Smartphone,927,12,2024-03-12,2024-05-18,True,True,True,Hardware Failure,0,Invalid Claim
+CLM-43003,Smartphone,97,36,2026-06-20,2026-08-16,True,True,False,Battery Issue,0,Valid Claim
+CLM-88174,Refrigerator,1075,36,2023-10-16,2024-08-24,True,True,False,Battery Issue,0,Manual Review
+CLM-41224,Smartphone,545,12,2025-03-29,2026-03-26,True,True,True,Hardware Failure,0,Invalid Claim
+CLM-17753,Smartphone,706,12,2024-10-19,2025-10-24,True,True,False,Screen Defect,0,Valid Claim
+CLM-86185,Refrigerator,908,36,2024-03-31,2025-06-19,True,True,False,Water Damage,0,Manual Review
+CLM-68996,Laptop,23,24,2026-09-02,2026-09-17,True,True,False,Water Damage,0,Manual Review
+CLM-22675,Refrigerator,385,24,2025-09-05,2026-04-04,True,True,True,Software Glitch,0,Invalid Claim
+CLM-94801,Washing Machine,713,12,2024-10-12,2025-07-17,True,True,True,Battery Issue,0,Invalid Claim
+CLM-88630,Refrigerator,77,24,2026-07-10,2026-08-26,True,True,False,Software Glitch,0,Valid Claim
+CLM-76143,Refrigerator,341,12,2025-10-19,2025-11-22,True,True,False,Screen Defect,0,Valid Claim
+CLM-34038,Smartphone,742,36,2024-09-13,2025-07-10,True,True,False,Water Damage,0,Manual Review
+CLM-19593,Laptop,789,24,2024-07-28,2025-03-23,True,False,False,Software Glitch,0,Invalid Claim
+CLM-48932,Laptop,669,24,2024-11-25,2025-05-15,True,True,False,Battery Issue,0,Valid Claim
+CLM-25238,Laptop,844,12,2024-06-03,2025-11-09,True,True,False,Screen Defect,0,Manual Review
+CLM-63092,Laptop,385,36,2025-09-05,2026-07-12,True,True,True,Hardware Failure,0,Invalid Claim
+CLM-12167,Laptop,156,12,2026-04-22,2026-07-26,True,True,True,Screen Defect,0,Invalid Claim
+CLM-57750,Smartphone,756,12,2024-08-30,2024-12-29,True,False,False,Screen Defect,0,Invalid Claim
+CLM-67491,Refrigerator,838,36,2024-06-09,2025-08-19,True,True,False,Water Damage,0,Manual Review
+CLM-80898,Laptop,108,24,2026-06-09,2026-06-24,False,True,False,Hardware Failure,3,Manual Review
+CLM-15761,Washing Machine,340,36,2025-10-20,2026-01-18,True,True,False,Hardware Failure,0,Valid Claim
+CLM-48905,Laptop,715,24,2024-10-10,2026-04-07,True,True,False,Screen Defect,0,Manual Review
+CLM-67565,Washing Machine,734,24,2024-09-21,2026-06-26,True,True,False,Hardware Failure,0,Invalid Claim
+CLM-97408,Refrigerator,427,24,2025-07-25,2025-12-09,False,True,False,Hardware Failure,1,Invalid Claim
+CLM-12866,Washing Machine,873,24,2024-05-05,2025-01-07,True,False,False,Battery Issue,0,Invalid Claim
+CLM-71206,Refrigerator,876,24,2024-05-02,2024-09-23,True,True,False,Software Glitch,0,Invalid Claim
+CLM-83646,Refrigerator,717,24,2024-10-08,2026-04-01,True,True,False,Battery Issue,0,Manual Review
+CLM-58343,Smartphone,595,36,2025-02-07,2026-02-21,True,True,False,Water Damage,0,Manual Review
+CLM-28168,Laptop,378,24,2025-09-12,2026-06-19,True,True,False,Screen Defect,0,Valid Claim
+CLM-38009,Refrigerator,837,12,2024-06-10,2024-12-26,True,False,False,Screen Defect,0,Invalid Claim
+CLM-99326,Smartphone,924,12,2024-03-15,2024-10-08,True,False,False,Software Glitch,0,Invalid Claim
+CLM-90013,Washing Machine,65,36,2026-07-22,2026-09-19,True,True,False,Screen Defect,0,Manual Review
+CLM-51205,Refrigerator,329,24,2025-10-31,2025-12-26,False,True,False,Battery Issue,1,Manual Review
+CLM-39151,Refrigerator,52,12,2026-08-04,2026-08-24,True,True,False,Software Glitch,0,Valid Claim
+CLM-38841,Refrigerator,1078,36,2023-10-13,2026-02-11,True,True,False,Screen Defect,0,Manual Review
+CLM-71940,Refrigerator,796,24,2024-07-21,2024-09-19,True,True,False,Battery Issue,0,Invalid Claim
+CLM-29404,Smartphone,300,36,2025-11-29,2026-08-09,True,False,False,Screen Defect,0,Invalid Claim
+CLM-64965,Refrigerator,820,36,2024-06-27,2026-07-22,False,True,False,Screen Defect,2,Manual Review
+CLM-94086,Refrigerator,899,24,2024-04-09,2024-12-03,True,True,False,Software Glitch,0,Valid Claim
+CLM-89769,Laptop,359,12,2025-10-01,2026-05-16,True,True,False,Hardware Failure,0,Manual Review
+CLM-39507,Refrigerator,236,36,2026-02-01,2026-03-02,True,True,False,Hardware Failure,0,Valid Claim
+CLM-86570,Washing Machine,125,12,2026-05-23,2026-06-14,True,True,False,Hardware Failure,0,Valid Claim
+CLM-12885,Refrigerator,381,36,2025-09-09,2026-06-30,True,True,False,Battery Issue,0,Valid Claim
+CLM-49783,Washing Machine,150,36,2026-04-28,2026-07-06,True,True,False,Hardware Failure,0,Manual Review
+CLM-85541,Washing Machine,67,24,2026-07-20,2026-08-26,True,True,False,Hardware Failure,0,Valid Claim
+CLM-72191,Refrigerator,185,36,2026-03-24,2026-07-14,True,True,False,Screen Defect,0,Valid Claim
+CLM-81989,Laptop,356,12,2025-10-04,2026-02-18,True,True,False,Software Glitch,0,Manual Review
+CLM-91402,Refrigerator,265,12,2026-01-03,2026-08-04,True,True,False,Screen Defect,0,Valid Claim
+CLM-50034,Laptop,1078,36,2023-10-13,2024-05-24,True,True,False,Screen Defect,0,Manual Review
+CLM-79149,Refrigerator,1075,36,2023-10-16,2025-02-23,True,True,False,Software Glitch,0,Manual Review
+CLM-51741,Smartphone,789,12,2024-07-28,2025-01-16,True,True,False,Battery Issue,0,Valid Claim
+CLM-97784,Washing Machine,561,24,2025-03-13,2025-06-24,True,True,False,Hardware Failure,0,Valid Claim
+CLM-80614,Smartphone,1000,36,2023-12-30,2025-05-11,False,True,False,Screen Defect,1,Invalid Claim
+CLM-33689,Smartphone,475,24,2025-06-07,2025-11-12,True,True,False,Hardware Failure,0,Manual Review
+CLM-88885,Laptop,565,12,2025-03-09,2026-05-26,True,True,False,Battery Issue,0,Valid Claim
+CLM-41777,Laptop,882,12,2024-04-26,2026-06-03,False,True,False,Screen Defect,3,Manual Review
+CLM-19382,Washing Machine,85,36,2026-07-02,2026-08-17,True,False,False,Software Glitch,0,Invalid Claim
+CLM-37780,Washing Machine,251,24,2026-01-17,2026-09-09,True,True,False,Water Damage,0,Manual Review
+CLM-61741,Refrigerator,415,12,2025-08-06,2026-04-16,True,True,False,Screen Defect,0,Valid Claim
+CLM-66125,Smartphone,564,24,2025-03-10,2025-11-14,True,True,False,Software Glitch,0,Valid Claim
+CLM-27880,Smartphone,256,24,2026-01-12,2026-01-25,True,True,False,Hardware Failure,0,Valid Claim
+CLM-99478,Laptop,1076,36,2023-10-15,2024-01-14,True,True,False,Software Glitch,0,Manual Review
+CLM-57011,Washing Machine,357,12,2025-10-03,2025-11-16,True,True,False,Battery Issue,0,Manual Review
+CLM-80471,Smartphone,460,12,2025-06-22,2026-09-07,True,False,False,Screen Defect,0,Invalid Claim
+CLM-22111,Refrigerator,480,12,2025-06-02,2025-12-04,True,True,False,Hardware Failure,0,Valid Claim
+CLM-95441,Washing Machine,854,24,2024-05-24,2025-02-23,True,True,False,Hardware Failure,0,Valid Claim
+CLM-48380,Washing Machine,415,36,2025-08-06,2026-01-09,True,True,False,Battery Issue,0,Manual Review
+CLM-33577,Refrigerator,336,24,2025-10-24,2025-11-13,True,True,True,Screen Defect,0,Invalid Claim
+CLM-29209,Smartphone,1095,36,2023-09-26,2026-01-04,True,True,False,Screen Defect,0,Invalid Claim
+CLM-33006,Refrigerator,604,24,2025-01-29,2025-09-26,True,False,False,Battery Issue,0,Invalid Claim
+CLM-43276,Refrigerator,735,12,2024-09-20,2025-10-15,True,True,False,Screen Defect,0,Valid Claim
+CLM-94815,Smartphone,751,24,2024-09-04,2024-09-28,True,True,False,Hardware Failure,0,Invalid Claim
+CLM-21734,Laptop,512,36,2025-05-01,2026-08-04,True,True,False,Battery Issue,0,Valid Claim
+CLM-59875,Smartphone,147,24,2026-05-01,2026-07-27,True,True,False,Battery Issue,0,Manual Review
+CLM-71044,Refrigerator,592,36,2025-02-10,2025-02-17,True,False,False,Hardware Failure,0,Invalid Claim
+CLM-79036,Refrigerator,207,36,2026-03-02,2026-05-05,True,True,False,Battery Issue,0,Valid Claim
+CLM-32085,Laptop,404,12,2025-08-17,2026-08-12,True,True,False,Battery Issue,0,Invalid Claim
+CLM-64969,Laptop,415,24,2025-08-06,2025-11-12,True,True,False,Software Glitch,0,Valid Claim
+CLM-33621,Washing Machine,614,12,2025-01-19,2025-11-05,True,True,False,Software Glitch,0,Valid Claim
+CLM-58172,Laptop,597,36,2025-02-05,2025-07-29,True,True,False,Hardware Failure,0,Valid Claim
+CLM-51650,Smartphone,97,12,2026-06-20,2026-08-21,True,True,False,Water Damage,0,Manual Review
+CLM-10983,Laptop,604,24,2025-01-29,2026-01-20,True,True,False,Software Glitch,0,Valid Claim
+CLM-95527,Laptop,739,12,2024-09-16,2024-11-13,False,True,False,Screen Defect,3,Manual Review
+CLM-51462,Refrigerator,733,24,2024-09-22,2025-05-24,True,True,True,Screen Defect,0,Invalid Claim
+CLM-15863,Smartphone,359,12,2025-10-01,2026-02-11,True,True,False,Battery Issue,0,Manual Review
+CLM-36812,Laptop,717,24,2024-10-08,2025-04-30,True,True,False,Screen Defect,0,Manual Review
+CLM-40051,Washing Machine,291,12,2025-12-08,2026-08-03,True,True,False,Hardware Failure,0,Valid Claim
+CLM-35684,Refrigerator,276,24,2025-12-23,2026-01-20,True,False,False,Hardware Failure,0,Invalid Claim
+CLM-34615,Refrigerator,278,12,2025-12-21,2026-06-03,True,True,False,Software Glitch,0,Valid Claim
+CLM-38776,Laptop,718,24,2024-10-07,2025-04-25,True,True,False,Software Glitch,0,Manual Review
+CLM-61805,Washing Machine,1076,36,2023-10-15,2025-02-04,True,True,False,Software Glitch,0,Manual Review
+CLM-66104,Washing Machine,915,12,2024-03-24,2025-01-31,True,True,False,Software Glitch,0,Valid Claim
+CLM-33252,Refrigerator,1115,36,2023-09-06,2026-07-08,True,True,False,Software Glitch,0,Invalid Claim
+CLM-37296,Washing Machine,593,24,2025-02-09,2025-06-08,True,True,False,Software Glitch,0,Valid Claim
+CLM-62706,Smartphone,342,36,2025-10-18,2026-03-23,True,True,True,Hardware Failure,0,Invalid Claim
+CLM-59143,Smartphone,421,36,2025-07-31,2025-09-05,True,True,False,Battery Issue,0,Valid Claim
+CLM-15772,Laptop,653,24,2024-12-11,2025-07-09,True,False,False,Screen Defect,0,Invalid Claim
+CLM-26192,Washing Machine,418,24,2025-08-03,2026-04-14,True,False,False,Battery Issue,0,Invalid Claim
+CLM-35846,Laptop,102,12,2026-06-15,2026-06-23,True,True,False,Software Glitch,0,Valid Claim
+CLM-16100,Smartphone,126,24,2026-05-22,2026-07-17,False,True,False,Screen Defect,3,Invalid Claim
+CLM-75479,Refrigerator,509,12,2025-05-04,2026-01-16,True,True,False,Hardware Failure,0,Invalid Claim
+CLM-56315,Refrigerator,274,24,2025-12-25,2026-09-13,False,True,False,Battery Issue,3,Manual Review
+CLM-71370,Smartphone,578,36,2025-02-24,2026-03-08,True,True,False,Hardware Failure,0,Manual Review
+CLM-77893,Washing Machine,854,24,2024-05-24,2026-06-03,True,True,False,Screen Defect,0,Invalid Claim
+CLM-25710,Refrigerator,643,24,2024-12-21,2026-08-05,False,True,False,Battery Issue,2,Manual Review
+CLM-70022,Smartphone,1279,36,2023-03-26,2024-09-08,True,True,False,Battery Issue,0,Invalid Claim
+CLM-41111,Washing Machine,46,12,2026-08-10,2026-09-06,True,True,False,Hardware Failure,0,Valid Claim
+CLM-24211,Washing Machine,148,36,2026-04-30,2026-07-05,True,True,False,Software Glitch,0,Valid Claim
+CLM-52504,Laptop,747,12,2024-09-08,2025-05-27,False,True,False,Screen Defect,3,Invalid Claim
+CLM-53888,Laptop,774,24,2024-08-12,2024-10-30,True,True,False,Hardware Failure,0,Invalid Claim
+CLM-87328,Refrigerator,1079,36,2023-10-12,2026-03-28,True,True,False,Screen Defect,0,Manual Review
+CLM-10606,Washing Machine,71,24,2026-07-16,2026-09-14,True,True,False,Water Damage,0,Manual Review
+CLM-18589,Refrigerator,584,12,2025-02-18,2025-06-16,True,True,False,Screen Defect,0,Valid Claim
+CLM-44928,Washing Machine,194,12,2026-03-15,2026-09-21,True,True,False,Screen Defect,0,Valid Claim
+CLM-19668,Refrigerator,1078,36,2023-10-13,2024-02-01,True,True,False,Hardware Failure,0,Manual Review
+CLM-72788,Washing Machine,356,12,2025-10-04,2026-05-02,True,True,False,Hardware Failure,0,Manual Review
+CLM-93649,Laptop,466,12,2025-06-16,2026-06-04,True,True,False,Battery Issue,0,Valid Claim
+CLM-29632,Washing Machine,827,12,2024-06-20,2026-07-01,True,True,False,Battery Issue,0,Manual Review
+CLM-88803,Washing Machine,358,12,2025-10-02,2026-01-13,True,True,False,Software Glitch,0,Manual Review
+CLM-88059,Washing Machine,952,24,2024-02-16,2026-06-07,True,True,False,Screen Defect,0,Valid Claim
+CLM-73334,Refrigerator,719,24,2024-10-06,2026-01-12,True,True,False,Hardware Failure,0,Manual Review
+CLM-29577,Smartphone,302,36,2025-11-27,2026-07-04,True,True,False,Screen Defect,0,Valid Claim
+CLM-58884,Washing Machine,1122,36,2023-08-30,2024-08-15,True,True,False,Screen Defect,0,Invalid Claim
+CLM-26783,Washing Machine,946,24,2024-02-22,2026-03-05,True,True,False,Battery Issue,0,Valid Claim
+CLM-12192,Washing Machine,550,24,2025-03-24,2025-06-20,True,True,False,Screen Defect,0,Valid Claim
+CLM-33295,Smartphone,65,24,2026-07-22,2026-09-04,False,True,False,Screen Defect,2,Manual Review
+CLM-83618,Smartphone,737,12,2024-09-18,2024-10-07,True,True,False,Screen Defect,0,Valid Claim
+CLM-44132,Laptop,605,24,2025-01-28,2026-09-10,True,True,False,Water Damage,0,Manual Review
+CLM-94469,Refrigerator,509,36,2025-05-04,2026-02-13,True,False,False,Battery Issue,0,Invalid Claim
+CLM-49309,Refrigerator,562,36,2025-03-12,2026-07-26,True,True,True,Screen Defect,0,Invalid Claim
+CLM-27202,Refrigerator,157,36,2026-04-21,2026-08-12,True,True,False,Battery Issue,0,Valid Claim
+CLM-80158,Laptop,69,24,2026-07-18,2026-08-02,True,True,False,Screen Defect,0,Valid Claim
+CLM-86389,Washing Machine,87,36,2026-06-30,2026-07-07,False,True,False,Hardware Failure,3,Invalid Claim
+CLM-99667,Refrigerator,752,24,2024-09-03,2025-05-11,True,True,False,Battery Issue,0,Invalid Claim
+CLM-40604,Washing Machine,375,12,2025-09-15,2025-11-16,True,True,False,Hardware Failure,0,Invalid Claim
+CLM-73737,Refrigerator,206,24,2026-03-03,2026-04-13,True,True,False,Water Damage,0,Manual Review
+CLM-69389,Laptop,196,24,2026-03-13,2026-07-17,True,True,False,Screen Defect,0,Valid Claim
+CLM-68148,Smartphone,871,36,2024-05-07,2025-08-31,True,True,False,Software Glitch,0,Valid Claim
+CLM-89565,Washing Machine,552,12,2025-03-22,2026-04-11,True,True,False,Battery Issue,0,Invalid Claim
+CLM-35497,Refrigerator,673,36,2024-11-21,2025-10-13,True,True,True,Screen Defect,0,Invalid Claim
+CLM-26428,Refrigerator,219,12,2026-02-18,2026-08-05,True,True,False,Water Damage,0,Manual Review
+CLM-22663,Smartphone,558,24,2025-03-16,2025-06-07,True,True,False,Screen Defect,0,Valid Claim
+CLM-59236,Washing Machine,700,24,2024-10-25,2024-12-08,True,False,False,Software Glitch,0,Invalid Claim
+CLM-24710,Refrigerator,357,12,2025-10-03,2025-10-05,True,True,False,Screen Defect,0,Manual Review
+CLM-84339,Refrigerator,738,36,2024-09-17,2025-09-13,True,True,True,Software Glitch,0,Invalid Claim
+CLM-93439,Washing Machine,502,12,2025-05-11,2026-08-20,True,True,False,Software Glitch,0,Invalid Claim
+CLM-34055,Refrigerator,599,24,2025-02-03,2025-12-26,False,True,False,Hardware Failure,3,Invalid Claim
+CLM-25946,Laptop,469,24,2025-06-13,2026-06-05,True,True,False,Software Glitch,0,Valid Claim
+CLM-49445,Refrigerator,985,36,2024-01-14,2024-12-12,True,True,False,Water Damage,0,Manual Review
+CLM-77441,Refrigerator,815,24,2024-07-02,2026-01-01,False,True,False,Battery Issue,1,Invalid Claim
+CLM-37289,Refrigerator,1000,12,2023-12-30,2026-03-21,True,True,False,Software Glitch,0,Manual Review
+CLM-50538,Laptop,340,24,2025-10-20,2026-01-15,True,False,False,Screen Defect,0,Invalid Claim
+CLM-33975,Laptop,856,24,2024-05-22,2025-09-15,False,True,False,Battery Issue,2,Invalid Claim
+CLM-94447,Smartphone,493,12,2025-05-20,2026-03-22,False,True,False,Screen Defect,3,Invalid Claim
+CLM-71627,Smartphone,52,36,2026-08-04,2026-08-05,True,True,False,Battery Issue,0,Valid Claim
+CLM-82637,Laptop,935,36,2024-03-04,2026-05-07,False,True,False,Screen Defect,1,Invalid Claim
+CLM-66872,Washing Machine,401,24,2025-08-20,2026-02-04,False,True,False,Software Glitch,1,Manual Review
+CLM-56987,Smartphone,68,36,2026-07-19,2026-09-13,True,False,False,Battery Issue,0,Invalid Claim
+CLM-29694,Laptop,145,12,2026-05-03,2026-07-15,True,True,False,Software Glitch,0,Valid Claim
+CLM-32910,Laptop,519,24,2025-04-24,2025-12-26,True,True,False,Battery Issue,0,Valid Claim
+CLM-65412,Washing Machine,452,36,2025-06-30,2026-03-01,True,True,False,Water Damage,0,Manual Review
+CLM-83140,Smartphone,1076,36,2023-10-15,2025-09-10,True,True,False,Battery Issue,0,Manual Review
+CLM-41550,Laptop,1168,36,2023-07-15,2025-07-12,True,True,False,Hardware Failure,0,Invalid Claim
+CLM-54678,Smartphone,816,12,2024-07-01,2026-08-31,True,True,True,Hardware Failure,0,Invalid Claim
+CLM-10116,Washing Machine,749,36,2024-09-06,2025-10-07,False,True,False,Hardware Failure,3,Manual Review
+CLM-59871,Smartphone,398,36,2025-08-23,2026-08-27,True,True,False,Software Glitch,0,Valid Claim
+CLM-88626,Refrigerator,928,12,2024-03-11,2026-08-18,True,False,False,Battery Issue,0,Invalid Claim
+CLM-16923,Refrigerator,948,12,2024-02-20,2024-09-17,True,True,False,Water Damage,0,Manual Review
+CLM-46026,Washing Machine,343,12,2025-10-17,2026-08-28,True,True,True,Hardware Failure,0,Invalid Claim
+CLM-26443,Washing Machine,537,12,2025-04-06,2026-05-21,True,True,False,Battery Issue,0,Invalid Claim
+CLM-76732,Smartphone,337,36,2025-10-23,2026-05-13,True,False,False,Software Glitch,0,Invalid Claim
+CLM-39454,Smartphone,702,24,2024-10-23,2026-02-27,False,True,False,Software Glitch,3,Invalid Claim
+CLM-86770,Refrigerator,963,12,2024-02-05,2025-12-14,False,True,False,Screen Defect,1,Invalid Claim
+CLM-38068,Washing Machine,766,36,2024-08-20,2025-04-13,True,True,False,Screen Defect,0,Valid Claim
+CLM-77961,Laptop,411,36,2025-08-10,2026-07-27,True,False,False,Screen Defect,0,Invalid Claim
+CLM-16634,Laptop,641,12,2024-12-23,2025-01-30,True,True,False,Software Glitch,0,Valid Claim
+CLM-33117,Refrigerator,366,12,2025-09-24,2026-09-11,False,True,False,Battery Issue,3,Invalid Claim
+CLM-49639,Refrigerator,588,36,2025-02-14,2025-02-20,True,True,False,Battery Issue,0,Valid Claim
+CLM-22449,Smartphone,881,24,2024-04-27,2025-12-02,True,True,False,Hardware Failure,0,Valid Claim
+CLM-80992,Refrigerator,1226,36,2023-05-18,2025-09-16,True,True,False,Software Glitch,0,Invalid Claim
+CLM-81981,Washing Machine,932,12,2024-03-07,2025-01-01,True,True,False,Battery Issue,0,Valid Claim
+CLM-90285,Laptop,295,12,2025-12-04,2026-04-01,True,False,False,Software Glitch,0,Invalid Claim
+CLM-16790,Laptop,492,24,2025-05-21,2026-07-14,True,True,False,Hardware Failure,0,Valid Claim
+CLM-78763,Washing Machine,743,24,2024-09-12,2026-03-09,True,True,False,Water Damage,0,Manual Review
+CLM-10438,Smartphone,693,24,2024-11-01,2026-03-20,True,True,False,Water Damage,0,Manual Review
+CLM-59663,Laptop,490,12,2025-05-23,2026-09-20,True,False,False,Screen Defect,0,Invalid Claim
+CLM-38393,Washing Machine,717,24,2024-10-08,2025-08-08,True,True,False,Screen Defect,0,Manual Review
+CLM-21129,Smartphone,81,12,2026-07-06,2026-07-12,False,True,False,Hardware Failure,2,Invalid Claim
+CLM-32566,Smartphone,676,36,2024-11-18,2026-06-17,True,True,False,Screen Defect,0,Valid Claim
+CLM-69467,Laptop,749,24,2024-09-06,2025-12-17,True,True,False,Hardware Failure,0,Invalid Claim
+CLM-17149,Refrigerator,774,24,2024-08-12,2025-10-14,True,True,False,Screen Defect,0,Valid Claim
+CLM-83447,Refrigerator,315,24,2025-11-14,2025-11-23,True,True,False,Software Glitch,0,Valid Claim
+CLM-34476,Washing Machine,281,12,2025-12-18,2026-08-05,True,True,True,Battery Issue,0,Invalid Claim
+CLM-16346,Smartphone,429,24,2025-07-23,2025-10-17,False,True,False,Battery Issue,1,Manual Review
+CLM-16428,Smartphone,1211,36,2023-06-02,2024-01-25,True,True,False,Hardware Failure,0,Invalid Claim
+CLM-88872,Smartphone,1075,36,2023-10-16,2024-07-19,True,True,False,Software Glitch,0,Manual Review
+CLM-50622,Smartphone,316,24,2025-11-13,2026-07-08,True,True,False,Hardware Failure,0,Valid Claim
+CLM-69128,Washing Machine,142,12,2026-05-06,2026-05-29,True,True,False,Water Damage,0,Manual Review
+CLM-71205,Smartphone,1077,36,2023-10-14,2025-11-10,True,True,False,Screen Defect,0,Manual Review
+CLM-23179,Smartphone,356,12,2025-10-04,2026-08-25,True,True,False,Battery Issue,0,Manual Review
+CLM-61686,Refrigerator,863,36,2024-05-15,2026-02-11,True,True,False,Hardware Failure,0,Valid Claim
+CLM-26288,Washing Machine,983,24,2024-01-16,2025-05-31,True,True,False,Screen Defect,0,Valid Claim
+CLM-94803,Laptop,919,12,2024-03-20,2025-05-17,True,True,False,Screen Defect,0,Valid Claim
+CLM-57938,Smartphone,397,12,2025-08-24,2026-02-07,True,True,False,Software Glitch,0,Valid Claim
+CLM-21363,Smartphone,700,36,2024-10-25,2025-12-07,True,True,False,Battery Issue,0,Valid Claim
+CLM-21872,Laptop,858,24,2024-05-20,2025-03-19,True,True,False,Hardware Failure,0,Invalid Claim
+CLM-93719,Laptop,706,12,2024-10-19,2025-12-10,True,True,False,Screen Defect,0,Valid Claim
+CLM-49280,Washing Machine,87,12,2026-06-30,2026-09-24,False,True,False,Software Glitch,1,Invalid Claim
+CLM-86951,Smartphone,754,36,2024-09-01,2025-06-30,True,True,False,Battery Issue,0,Valid Claim
+CLM-85713,Laptop,998,12,2024-01-01,2025-11-28,True,True,False,Water Damage,0,Manual Review
+CLM-63160,Washing Machine,450,24,2025-07-02,2026-09-25,False,True,False,Software Glitch,1,Manual Review
+CLM-35098,Refrigerator,1078,36,2023-10-13,2025-07-23,True,True,False,Hardware Failure,0,Manual Review
+CLM-49144,Laptop,525,36,2025-04-18,2026-09-15,True,True,False,Hardware Failure,0,Valid Claim
+CLM-35759,Smartphone,358,12,2025-10-02,2026-08-11,True,True,False,Battery Issue,0,Manual Review
+CLM-99707,Washing Machine,193,24,2026-03-16,2026-06-29,True,True,False,Software Glitch,0,Valid Claim
+CLM-77540,Refrigerator,888,24,2024-04-20,2026-05-26,True,True,False,Screen Defect,0,Manual Review
+CLM-93301,Washing Machine,542,12,2025-04-01,2026-04-03,True,True,False,Software Glitch,0,Invalid Claim
+CLM-16112,Smartphone,159,24,2026-04-19,2026-07-10,True,True,False,Water Damage,0,Manual Review
+CLM-13928,Refrigerator,435,12,2025-07-17,2025-10-07,True,True,False,Battery Issue,0,Invalid Claim
+CLM-93288,Washing Machine,264,12,2026-01-04,2026-06-18,True,True,False,Water Damage,0,Manual Review
+CLM-71841,Washing Machine,718,24,2024-10-07,2026-01-15,True,True,False,Battery Issue,0,Manual Review
+CLM-64166,Laptop,374,12,2025-09-16,2026-06-25,False,True,False,Battery Issue,1,Manual Review
+CLM-64975,Refrigerator,30,36,2026-08-26,2026-09-02,True,True,False,Software Glitch,0,Valid Claim
+CLM-48476,Refrigerator,355,12,2025-10-05,2026-05-19,True,True,False,Software Glitch,0,Manual Review
+CLM-41432,Laptop,748,24,2024-09-07,2026-07-17,True,True,False,Software Glitch,0,Invalid Claim
+CLM-52404,Washing Machine,796,36,2024-07-21,2025-03-02,False,True,False,Hardware Failure,2,Invalid Claim
+CLM-85814,Laptop,911,12,2024-03-28,2024-05-02,True,True,False,Hardware Failure,0,Valid Claim
+CLM-45006,Laptop,89,36,2026-06-28,2026-07-12,False,True,False,Battery Issue,1,Invalid Claim
+CLM-67858,Refrigerator,401,12,2025-08-20,2026-06-26,True,True,False,Software Glitch,0,Valid Claim
+CLM-99231,Laptop,716,24,2024-10-09,2026-03-22,True,True,False,Software Glitch,0,Manual Review
+CLM-73258,Laptop,99,12,2026-06-18,2026-08-16,True,True,False,Software Glitch,0,Valid Claim
+CLM-33490,Laptop,846,24,2024-06-01,2025-10-28,False,True,False,Hardware Failure,3,Invalid Claim
+CLM-97670,Washing Machine,358,12,2025-10-02,2026-08-10,True,True,False,Battery Issue,0,Manual Review
+CLM-24487,Smartphone,944,36,2024-02-24,2024-03-20,True,True,False,Water Damage,0,Manual Review
+CLM-80573,Refrigerator,699,12,2024-10-26,2026-06-04,True,True,False,Battery Issue,0,Valid Claim
+CLM-70908,Laptop,714,12,2024-10-11,2025-07-15,True,True,False,Water Damage,0,Manual Review
+CLM-53473,Refrigerator,355,12,2025-10-05,2026-05-15,True,True,False,Software Glitch,0,Manual Review
+CLM-92881,Washing Machine,882,24,2024-04-26,2024-09-25,True,True,False,Screen Defect,0,Invalid Claim
+CLM-86161,Refrigerator,847,24,2024-05-31,2025-10-08,True,True,False,Software Glitch,0,Valid Claim
+CLM-42106,Washing Machine,431,36,2025-07-21,2025-12-05,True,True,False,Software Glitch,0,Valid Claim
+CLM-44823,Washing Machine,785,12,2024-08-01,2024-10-03,True,True,False,Screen Defect,0,Valid Claim
+CLM-81566,Refrigerator,763,12,2024-08-23,2026-01-12,True,True,False,Screen Defect,0,Valid Claim
+CLM-51616,Refrigerator,633,12,2024-12-31,2025-11-16,True,True,False,Screen Defect,0,Valid Claim
+CLM-95643,Smartphone,573,24,2025-03-01,2025-11-05,True,True,False,Software Glitch,0,Valid Claim
+CLM-16707,Laptop,444,12,2025-07-08,2025-09-01,False,True,False,Hardware Failure,3,Manual Review
+CLM-97624,Smartphone,424,36,2025-07-28,2026-05-27,True,True,False,Water Damage,0,Manual Review
+CLM-91264,Smartphone,715,24,2024-10-10,2025-12-30,True,True,False,Screen Defect,0,Manual Review
+CLM-65716,Washing Machine,773,36,2024-08-13,2025-06-05,True,False,False,Screen Defect,0,Invalid Claim
+CLM-20106,Smartphone,807,24,2024-07-10,2025-01-11,True,True,True,Software Glitch,0,Invalid Claim
+CLM-87617,Smartphone,717,24,2024-10-08,2026-05-06,True,True,False,Hardware Failure,0,Manual Review
+CLM-28592,Laptop,705,12,2024-10-20,2025-01-08,False,True,False,Battery Issue,1,Invalid Claim
+CLM-44651,Washing Machine,329,12,2025-10-31,2026-06-15,True,False,False,Software Glitch,0,Invalid Claim
+CLM-37789,Laptop,419,12,2025-08-02,2026-08-29,True,True,True,Software Glitch,0,Invalid Claim
+CLM-87340,Washing Machine,357,12,2025-10-03,2026-03-06,True,True,False,Battery Issue,0,Manual Review
+CLM-81082,Washing Machine,31,12,2026-08-25,2026-09-14,False,True,False,Software Glitch,3,Invalid Claim
+CLM-85152,Laptop,872,36,2024-05-06,2025-12-14,True,False,False,Hardware Failure,0,Invalid Claim
+CLM-68005,Smartphone,351,12,2025-10-09,2026-04-17,True,True,False,Hardware Failure,0,Valid Claim
+CLM-25966,Refrigerator,511,12,2025-05-02,2025-06-07,True,True,False,Screen Defect,0,Valid Claim
+CLM-38825,Refrigerator,567,12,2025-03-07,2026-04-23,True,True,False,Screen Defect,0,Valid Claim
+CLM-62503,Refrigerator,675,36,2024-11-19,2025-12-11,False,True,False,Hardware Failure,1,Manual Review
+CLM-87172,Refrigerator,107,36,2026-06-10,2026-08-05,False,True,False,Hardware Failure,2,Invalid Claim
+CLM-37718,Washing Machine,938,24,2024-03-01,2026-06-19,True,True,False,Screen Defect,0,Valid Claim
+CLM-32728,Refrigerator,877,36,2024-05-01,2026-01-10,True,True,False,Hardware Failure,0,Valid Claim
+CLM-48026,Laptop,271,36,2025-12-28,2026-07-28,True,False,False,Screen Defect,0,Invalid Claim
+CLM-14940,Washing Machine,221,36,2026-02-16,2026-08-17,True,True,False,Screen Defect,0,Valid Claim
+CLM-13244,Smartphone,356,12,2025-10-04,2026-02-20,True,True,False,Battery Issue,0,Manual Review
+CLM-34819,Laptop,1096,36,2023-09-25,2024-09-13,True,True,False,Hardware Failure,0,Invalid Claim
+CLM-27838,Refrigerator,356,12,2025-10-04,2026-05-09,True,True,False,Hardware Failure,0,Manual Review
+CLM-32571,Washing Machine,133,12,2026-05-15,2026-09-10,True,True,False,Battery Issue,0,Valid Claim
+CLM-45688,Smartphone,435,12,2025-07-17,2026-05-03,True,True,False,Battery Issue,0,Invalid Claim
+CLM-62185,Washing Machine,739,24,2024-09-16,2026-04-18,True,True,False,Hardware Failure,0,Invalid Claim
+CLM-16108,Washing Machine,579,12,2025-02-23,2026-05-23,True,True,False,Software Glitch,0,Valid Claim
+CLM-30153,Smartphone,958,24,2024-02-10,2024-12-07,True,True,True,Battery Issue,0,Invalid Claim
+CLM-42102,Refrigerator,834,12,2024-06-13,2026-04-03,True,True,False,Hardware Failure,0,Valid Claim
+CLM-82667,Washing Machine,707,36,2024-10-18,2025-09-04,True,False,False,Hardware Failure,0,Invalid Claim
+CLM-13305,Smartphone,214,24,2026-02-23,2026-08-24,True,True,False,Screen Defect,0,Valid Claim
+CLM-60001,Smartphone,912,24,2024-03-27,2026-07-19,True,True,False,Hardware Failure,0,Invalid Claim
+CLM-97947,Refrigerator,881,36,2024-04-27,2024-12-10,True,True,False,Water Damage,0,Manual Review
+CLM-47962,Refrigerator,468,24,2025-06-14,2025-08-04,True,True,False,Water Damage,0,Manual Review
+CLM-39166,Smartphone,1170,36,2023-07-13,2025-10-10,True,True,False,Software Glitch,0,Invalid Claim
+CLM-40019,Smartphone,409,36,2025-08-12,2026-03-28,True,True,False,Software Glitch,0,Manual Review
+CLM-49202,Smartphone,927,36,2024-03-12,2026-03-28,True,True,False,Water Damage,0,Manual Review
+CLM-39419,Washing Machine,499,24,2025-05-14,2026-07-19,True,True,False,Water Damage,0,Manual Review
+CLM-46952,Washing Machine,295,12,2025-12-04,2026-07-26,True,True,False,Battery Issue,0,Valid Claim
+CLM-72171,Refrigerator,772,24,2024-08-14,2025-03-15,True,True,False,Battery Issue,0,Valid Claim
+CLM-64486,Washing Machine,693,12,2024-11-01,2025-04-05,True,True,False,Hardware Failure,0,Valid Claim
+CLM-49123,Smartphone,271,12,2025-12-28,2026-04-27,True,True,False,Water Damage,0,Manual Review
+CLM-29495,Washing Machine,752,12,2024-09-03,2024-10-06,False,True,False,Screen Defect,3,Invalid Claim
+CLM-67878,Smartphone,701,12,2024-10-24,2025-11-14,True,True,False,Screen Defect,0,Valid Claim
+CLM-87577,Washing Machine,943,12,2024-02-25,2026-02-01,True,True,False,Hardware Failure,0,Valid Claim
+CLM-49468,Laptop,888,12,2024-04-20,2025-10-21,True,True,False,Battery Issue,0,Valid Claim
+CLM-64076,Laptop,117,12,2026-05-31,2026-07-01,True,True,True,Software Glitch,0,Invalid Claim
+CLM-17043,Washing Machine,358,12,2025-10-02,2026-01-14,True,True,False,Battery Issue,0,Manual Review
+CLM-35628,Refrigerator,64,36,2026-07-23,2026-08-29,False,True,False,Screen Defect,2,Invalid Claim
+CLM-11337,Laptop,601,24,2025-02-01,2025-11-28,True,True,False,Battery Issue,0,Valid Claim
+CLM-17760,Smartphone,668,24,2024-11-26,2025-02-14,True,False,False,Software Glitch,0,Invalid Claim
+CLM-62476,Laptop,358,12,2025-10-02,2026-05-02,True,True,False,Hardware Failure,0,Manual Review
+CLM-87523,Laptop,308,12,2025-11-21,2026-07-22,True,True,False,Hardware Failure,0,Valid Claim
+CLM-77925,Washing Machine,100,36,2026-06-17,2026-09-04,False,True,False,Screen Defect,3,Invalid Claim
+CLM-43915,Washing Machine,780,12,2024-08-06,2026-03-29,True,True,False,Software Glitch,0,Valid Claim
+CLM-60427,Smartphone,692,36,2024-11-02,2026-07-08,True,True,False,Battery Issue,0,Valid Claim
+CLM-38913,Smartphone,116,12,2026-06-01,2026-09-06,True,True,False,Hardware Failure,0,Valid Claim
+CLM-32158,Laptop,355,12,2025-10-05,2026-04-25,True,True,False,Screen Defect,0,Manual Review
+CLM-94679,Laptop,717,24,2024-10-08,2025-06-23,True,True,False,Software Glitch,0,Manual Review
+CLM-81573,Washing Machine,412,36,2025-08-09,2026-07-04,True,False,False,Hardware Failure,0,Invalid Claim
+CLM-12963,Washing Machine,717,24,2024-10-08,2025-06-17,True,True,False,Battery Issue,0,Manual Review
+CLM-56760,Washing Machine,475,24,2025-06-07,2026-02-11,True,True,False,Software Glitch,0,Valid Claim
+CLM-46386,Refrigerator,410,12,2025-08-11,2026-02-07,True,True,True,Battery Issue,0,Invalid Claim
+CLM-94005,Smartphone,936,24,2024-03-03,2026-06-15,True,True,False,Water Damage,0,Manual Review
+CLM-33963,Washing Machine,551,12,2025-03-23,2026-03-24,True,True,False,Water Damage,0,Manual Review
+CLM-68447,Smartphone,848,36,2024-05-30,2025-02-08,True,True,False,Battery Issue,0,Valid Claim
+CLM-43154,Refrigerator,100,12,2026-06-17,2026-07-31,True,True,False,Water Damage,0,Manual Review
+CLM-73039,Smartphone,738,36,2024-09-17,2025-02-24,True,True,False,Software Glitch,0,Valid Claim
+CLM-11944,Washing Machine,625,24,2025-01-08,2026-09-15,True,True,False,Screen Defect,0,Valid Claim
+CLM-31400,Smartphone,591,36,2025-02-11,2025-07-24,True,True,True,Battery Issue,0,Invalid Claim
+CLM-85112,Refrigerator,191,36,2026-03-18,2026-07-04,True,True,False,Screen Defect,0,Valid Claim
+CLM-27390,Refrigerator,557,36,2025-03-17,2026-02-02,True,True,False,Screen Defect,0,Manual Review
+CLM-91893,Laptop,430,36,2025-07-22,2025-11-06,True,False,False,Hardware Failure,0,Invalid Claim
+CLM-65188,Refrigerator,286,36,2025-12-13,2026-01-11,True,True,False,Hardware Failure,0,Valid Claim
+CLM-19469,Smartphone,427,24,2025-07-25,2026-07-01,True,True,False,Software Glitch,0,Valid Claim
+CLM-72855,Washing Machine,171,36,2026-04-07,2026-09-08,True,False,False,Battery Issue,0,Invalid Claim
+CLM-84873,Smartphone,1101,36,2023-09-20,2024-07-16,True,True,False,Software Glitch,0,Invalid Claim
+CLM-51467,Refrigerator,719,24,2024-10-06,2024-11-17,True,True,False,Battery Issue,0,Manual Review
+CLM-50674,Washing Machine,1143,36,2023-08-09,2025-03-01,True,True,False,Hardware Failure,0,Invalid Claim
+CLM-14578,Smartphone,1075,36,2023-10-16,2026-06-30,True,True,False,Screen Defect,0,Manual Review
+CLM-86179,Washing Machine,415,36,2025-08-06,2025-09-09,True,True,True,Hardware Failure,0,Invalid Claim
+CLM-10543,Washing Machine,175,12,2026-04-03,2026-04-10,True,True,True,Hardware Failure,0,Invalid Claim
+CLM-63019,Laptop,517,12,2025-04-26,2025-12-14,True,True,False,Screen Defect,0,Invalid Claim
+CLM-94811,Laptop,1077,36,2023-10-14,2024-07-04,True,True,False,Software Glitch,0,Manual Review
+CLM-41823,Smartphone,1198,36,2023-06-15,2026-04-16,True,True,False,Battery Issue,0,Invalid Claim
+CLM-36734,Refrigerator,718,24,2024-10-07,2024-11-29,True,True,False,Battery Issue,0,Manual Review
+CLM-73945,Washing Machine,352,24,2025-10-08,2026-03-23,True,True,False,Water Damage,0,Manual Review
+CLM-58829,Laptop,368,36,2025-09-22,2026-06-03,True,False,False,Hardware Failure,0,Invalid Claim
+CLM-32265,Laptop,407,12,2025-08-14,2026-02-07,True,True,False,Hardware Failure,0,Valid Claim
+CLM-49047,Washing Machine,660,24,2024-12-04,2026-04-28,True,False,False,Software Glitch,0,Invalid Claim
+CLM-73816,Laptop,158,24,2026-04-20,2026-06-10,True,True,False,Screen Defect,0,Valid Claim
+CLM-54137,Refrigerator,71,36,2026-07-16,2026-08-09,True,True,False,Battery Issue,0,Valid Claim
+CLM-55004,Refrigerator,253,24,2026-01-15,2026-08-21,True,True,False,Software Glitch,0,Manual Review
+CLM-63319,Refrigerator,82,24,2026-07-05,2026-07-06,True,True,False,Hardware Failure,0,Valid Claim
+CLM-33060,Washing Machine,38,24,2026-08-18,2026-09-08,True,True,False,Battery Issue,0,Valid Claim
+CLM-66050,Laptop,946,36,2024-02-22,2026-03-02,True,True,True,Hardware Failure,0,Invalid Claim
+CLM-91591,Smartphone,140,36,2026-05-08,2026-06-09,True,True,False,Battery Issue,0,Valid Claim
+CLM-62516,Laptop,359,12,2025-10-01,2025-11-20,True,True,False,Battery Issue,0,Manual Review
+CLM-96707,Refrigerator,1078,36,2023-10-13,2024-07-04,True,True,False,Battery Issue,0,Manual Review
+CLM-57978,Laptop,159,12,2026-04-19,2026-08-04,False,True,False,Software Glitch,1,Manual Review
+CLM-48800,Washing Machine,297,12,2025-12-02,2026-03-27,True,True,False,Water Damage,0,Manual Review
+CLM-39431,Laptop,470,12,2025-06-12,2026-01-06,True,True,False,Software Glitch,0,Valid Claim
+CLM-10398,Washing Machine,832,36,2024-06-15,2025-07-29,True,True,False,Hardware Failure,0,Valid Claim
+CLM-19146,Washing Machine,1079,36,2023-10-12,2026-07-05,True,True,False,Hardware Failure,0,Manual Review
+CLM-84874,Laptop,442,12,2025-07-10,2025-08-12,False,True,False,Hardware Failure,1,Invalid Claim
+CLM-53257,Smartphone,660,36,2024-12-04,2026-08-22,True,True,False,Software Glitch,0,Valid Claim
+CLM-32256,Smartphone,208,12,2026-03-01,2026-08-19,True,False,False,Hardware Failure,0,Invalid Claim
+CLM-94771,Refrigerator,358,12,2025-10-02,2026-01-27,True,True,False,Battery Issue,0,Manual Review
+CLM-17482,Smartphone,716,24,2024-10-09,2025-07-18,True,True,False,Battery Issue,0,Manual Review
+CLM-43483,Washing Machine,753,36,2024-09-02,2026-05-28,True,True,True,Hardware Failure,0,Invalid Claim
+CLM-33272,Washing Machine,158,36,2026-04-20,2026-05-13,True,False,False,Software Glitch,0,Invalid Claim
+CLM-29169,Refrigerator,862,12,2024-05-16,2026-01-28,True,False,False,Software Glitch,0,Invalid Claim
+CLM-45956,Washing Machine,126,12,2026-05-22,2026-07-07,True,True,True,Hardware Failure,0,Invalid Claim
+CLM-46229,Refrigerator,395,12,2025-08-26,2026-04-14,True,True,False,Software Glitch,0,Invalid Claim
+CLM-56399,Smartphone,1191,36,2023-06-22,2024-10-10,True,True,False,Hardware Failure,0,Invalid Claim
+CLM-89495,Washing Machine,194,36,2026-03-15,2026-06-03,True,True,False,Screen Defect,0,Valid Claim
+CLM-75194,Refrigerator,82,12,2026-07-05,2026-07-22,True,True,False,Software Glitch,0,Valid Claim
+CLM-36434,Washing Machine,688,12,2024-11-06,2025-12-03,False,True,False,Screen Defect,1,Invalid Claim
+CLM-23452,Refrigerator,356,12,2025-10-04,2026-08-31,True,True,False,Software Glitch,0,Manual Review
+CLM-20830,Laptop,717,24,2024-10-08,2026-08-02,True,True,False,Hardware Failure,0,Manual Review
+CLM-85938,Laptop,515,24,2025-04-28,2026-08-15,True,False,False,Battery Issue,0,Invalid Claim
+CLM-69296,Washing Machine,830,12,2024-06-17,2024-06-28,True,True,False,Screen Defect,0,Valid Claim
+CLM-96432,Washing Machine,359,12,2025-10-01,2025-11-15,True,True,False,Battery Issue,0,Manual Review
+CLM-79155,Laptop,1112,36,2023-09-09,2024-01-24,True,True,False,Hardware Failure,0,Invalid Claim
+CLM-53009,Washing Machine,541,24,2025-04-02,2026-09-25,True,True,False,Water Damage,0,Manual Review
+CLM-52705,Smartphone,217,24,2026-02-20,2026-06-06,True,True,False,Battery Issue,0,Valid Claim
+CLM-68822,Refrigerator,251,12,2026-01-17,2026-08-08,True,True,False,Screen Defect,0,Valid Claim
+CLM-89452,Washing Machine,35,36,2026-08-21,2026-09-12,False,True,False,Screen Defect,1,Invalid Claim
+CLM-88230,Laptop,582,12,2025-02-20,2026-04-12,True,True,False,Water Damage,0,Manual Review
+CLM-66234,Washing Machine,219,12,2026-02-18,2026-03-04,False,True,False,Screen Defect,1,Invalid Claim
+CLM-55525,Refrigerator,189,36,2026-03-20,2026-06-06,True,False,False,Software Glitch,0,Invalid Claim
+CLM-31175,Laptop,758,36,2024-08-28,2025-05-27,True,True,False,Screen Defect,0,Manual Review
+CLM-52130,Smartphone,862,24,2024-05-16,2024-06-09,True,True,False,Water Damage,0,Manual Review
+CLM-66307,Smartphone,956,24,2024-02-12,2024-08-03,True,True,False,Hardware Failure,0,Valid Claim
+CLM-22294,Smartphone,588,24,2025-02-14,2025-03-13,True,True,False,Hardware Failure,0,Manual Review
+CLM-19169,Washing Machine,737,24,2024-09-18,2026-03-14,True,True,False,Water Damage,0,Manual Review
+CLM-57481,Laptop,533,12,2025-04-10,2025-12-21,True,True,False,Hardware Failure,0,Invalid Claim
+CLM-18105,Smartphone,363,36,2025-09-27,2026-06-18,True,True,False,Screen Defect,0,Valid Claim
+CLM-11929,Washing Machine,514,24,2025-04-29,2026-08-04,True,True,False,Software Glitch,0,Valid Claim
+CLM-64748,Laptop,713,12,2024-10-12,2025-05-20,True,True,False,Hardware Failure,0,Valid Claim
+CLM-82417,Refrigerator,603,24,2025-01-30,2025-05-29,True,True,False,Software Glitch,0,Valid Claim
+CLM-43560,Smartphone,120,12,2026-05-28,2026-08-22,False,True,False,Software Glitch,3,Invalid Claim
+CLM-12207,Refrigerator,376,12,2025-09-14,2026-06-14,True,True,False,Screen Defect,0,Valid Claim
+CLM-77963,Laptop,308,36,2025-11-21,2026-03-18,True,True,False,Water Damage,0,Manual Review
+CLM-87362,Laptop,98,36,2026-06-19,2026-06-29,True,True,True,Screen Defect,0,Invalid Claim
+CLM-74741,Washing Machine,383,12,2025-09-07,2026-08-30,True,True,False,Software Glitch,0,Manual Review
+CLM-25189,Smartphone,93,36,2026-06-24,2026-09-03,False,True,False,Screen Defect,2,Invalid Claim
+CLM-65936,Laptop,203,36,2026-03-06,2026-08-14,True,True,False,Hardware Failure,0,Valid Claim
+CLM-28346,Smartphone,357,12,2025-10-03,2025-10-12,True,True,False,Hardware Failure,0,Manual Review
+CLM-64966,Washing Machine,320,36,2025-11-09,2026-03-01,False,True,False,Hardware Failure,2,Manual Review
+CLM-17902,Smartphone,86,36,2026-07-01,2026-09-19,True,True,False,Battery Issue,0,Valid Claim
+CLM-35088,Laptop,60,12,2026-07-27,2026-08-15,True,True,False,Screen Defect,0,Valid Claim
+CLM-68301,Refrigerator,345,12,2025-10-15,2026-04-26,True,False,False,Screen Defect,0,Invalid Claim
+CLM-92519,Smartphone,949,24,2024-02-19,2026-08-08,False,True,False,Screen Defect,1,Manual Review
+CLM-91797,Refrigerator,639,24,2024-12-25,2026-06-08,True,True,True,Hardware Failure,0,Invalid Claim
+CLM-83773,Refrigerator,35,36,2026-08-21,2026-09-14,False,True,False,Screen Defect,1,Invalid Claim
+CLM-41083,Refrigerator,239,24,2026-01-29,2026-06-19,True,True,False,Hardware Failure,0,Valid Claim
+CLM-27361,Refrigerator,813,36,2024-07-04,2024-08-08,True,True,True,Battery Issue,0,Invalid Claim
+CLM-41318,Refrigerator,258,12,2026-01-10,2026-08-12,True,True,False,Screen Defect,0,Valid Claim
+CLM-50762,Laptop,481,12,2025-06-01,2025-08-09,False,True,False,Hardware Failure,1,Invalid Claim
+CLM-79223,Refrigerator,821,36,2024-06-26,2024-12-08,True,True,False,Hardware Failure,0,Valid Claim
+CLM-58957,Smartphone,77,12,2026-07-10,2026-07-25,False,True,False,Hardware Failure,1,Invalid Claim
+CLM-91533,Washing Machine,237,12,2026-01-31,2026-04-10,False,True,False,Hardware Failure,2,Invalid Claim
+CLM-96478,Smartphone,310,12,2025-11-19,2025-12-03,True,True,False,Software Glitch,0,Valid Claim
+CLM-21191,Laptop,906,12,2024-04-02,2024-10-04,True,True,False,Software Glitch,0,Valid Claim
+CLM-88198,Refrigerator,998,12,2024-01-01,2026-05-16,True,False,False,Software Glitch,0,Invalid Claim
+CLM-16886,Smartphone,717,24,2024-10-08,2026-09-13,True,True,False,Battery Issue,0,Manual Review
+CLM-55648,Washing Machine,797,36,2024-07-20,2025-03-27,True,True,False,Screen Defect,0,Valid Claim
+CLM-52860,Laptop,212,36,2026-02-25,2026-03-16,True,True,False,Hardware Failure,0,Valid Claim
+CLM-33229,Smartphone,944,24,2024-02-24,2025-05-17,True,True,False,Water Damage,0,Manual Review
+CLM-37618,Laptop,803,12,2024-07-14,2026-04-24,True,True,False,Screen Defect,0,Valid Claim
+CLM-33057,Washing Machine,302,24,2025-11-27,2026-07-11,True,True,False,Screen Defect,0,Valid Claim
+CLM-88709,Refrigerator,603,36,2025-01-30,2026-05-31,False,True,False,Software Glitch,3,Invalid Claim
+CLM-84351,Washing Machine,466,24,2025-06-16,2025-12-23,True,True,True,Software Glitch,0,Invalid Claim
+CLM-25380,Washing Machine,718,24,2024-10-07,2026-03-17,True,True,False,Battery Issue,0,Manual Review
+CLM-81659,Smartphone,856,24,2024-05-22,2025-11-04,False,True,False,Hardware Failure,2,Invalid Claim
+CLM-14952,Laptop,283,24,2025-12-16,2026-08-27,True,False,False,Hardware Failure,0,Invalid Claim
+CLM-76864,Washing Machine,254,24,2026-01-14,2026-08-19,True,True,False,Hardware Failure,0,Valid Claim
+CLM-83032,Laptop,487,24,2025-05-26,2026-04-17,True,True,False,Screen Defect,0,Manual Review
+CLM-76077,Laptop,169,12,2026-04-09,2026-05-25,True,True,False,Water Damage,0,Manual Review
+CLM-52653,Laptop,82,36,2026-07-05,2026-08-12,False,True,False,Screen Defect,1,Invalid Claim
+CLM-24644,Laptop,353,24,2025-10-07,2026-03-13,True,True,False,Screen Defect,0,Valid Claim
+CLM-59996,Laptop,956,12,2024-02-12,2024-05-16,True,True,False,Screen Defect,0,Valid Claim
+CLM-87000,Laptop,359,12,2025-10-01,2026-06-02,True,True,False,Screen Defect,0,Manual Review
+CLM-32893,Refrigerator,978,12,2024-01-21,2024-09-04,True,True,False,Screen Defect,0,Manual Review
+CLM-81304,Refrigerator,673,36,2024-11-21,2025-11-01,True,True,False,Water Damage,0,Manual Review
+CLM-67267,Smartphone,297,36,2025-12-02,2026-07-27,True,True,False,Water Damage,0,Manual Review
+CLM-47241,Refrigerator,350,36,2025-10-10,2026-07-26,True,True,False,Water Damage,0,Manual Review
+CLM-46907,Washing Machine,186,36,2026-03-23,2026-09-25,True,False,False,Software Glitch,0,Invalid Claim
+CLM-16804,Smartphone,236,12,2026-02-01,2026-04-12,True,True,False,Software Glitch,0,Valid Claim
+CLM-64973,Smartphone,729,36,2024-09-26,2026-05-18,True,True,False,Water Damage,0,Manual Review
+CLM-40768,Smartphone,273,12,2025-12-26,2026-08-08,True,True,True,Software Glitch,0,Invalid Claim
+CLM-95453,Smartphone,209,12,2026-02-28,2026-09-25,True,True,False,Software Glitch,0,Valid Claim
+CLM-45099,Laptop,782,24,2024-08-04,2024-11-11,True,True,False,Water Damage,0,Manual Review
+CLM-50525,Laptop,696,36,2024-10-29,2025-04-29,True,False,False,Screen Defect,0,Invalid Claim
+CLM-47863,Smartphone,120,24,2026-05-28,2026-08-26,True,True,False,Battery Issue,0,Valid Claim
+CLM-83078,Smartphone,360,24,2025-09-30,2026-05-17,True,True,False,Screen Defect,0,Valid Claim
+CLM-10469,Refrigerator,820,24,2024-06-27,2025-09-19,True,True,False,Battery Issue,0,Invalid Claim
+CLM-92938,Washing Machine,467,12,2025-06-15,2026-06-04,True,True,False,Water Damage,0,Manual Review
+CLM-64287,Refrigerator,105,24,2026-06-12,2026-09-01,True,True,False,Hardware Failure,0,Valid Claim
+CLM-80705,Laptop,357,12,2025-10-03,2025-12-18,True,True,False,Battery Issue,0,Manual Review
+CLM-56901,Refrigerator,357,12,2025-10-03,2025-12-21,True,True,False,Water Damage,0,Manual Review
+CLM-34430,Smartphone,188,12,2026-03-21,2026-04-21,True,False,False,Battery Issue,0,Invalid Claim
+CLM-55971,Laptop,422,12,2025-07-30,2026-01-04,True,True,False,Software Glitch,0,Valid Claim
+CLM-77036,Washing Machine,718,24,2024-10-07,2026-08-30,True,True,False,Battery Issue,0,Manual Review
+CLM-16884,Refrigerator,948,24,2024-02-20,2024-09-09,True,True,True,Software Glitch,0,Invalid Claim
+CLM-72633,Washing Machine,819,12,2024-06-28,2024-12-12,True,True,False,Screen Defect,0,Valid Claim
+CLM-85781,Laptop,847,24,2024-05-31,2026-06-14,True,True,False,Software Glitch,0,Invalid Claim
+CLM-27051,Smartphone,533,24,2025-04-10,2026-09-07,True,True,False,Water Damage,0,Manual Review
+CLM-36499,Refrigerator,493,24,2025-05-20,2026-01-20,False,True,False,Battery Issue,2,Invalid Claim
+CLM-35609,Refrigerator,386,36,2025-09-04,2026-04-04,True,True,False,Hardware Failure,0,Valid Claim
+CLM-86252,Laptop,859,24,2024-05-19,2024-06-30,True,True,False,Hardware Failure,0,Invalid Claim
+CLM-87700,Washing Machine,689,24,2024-11-05,2025-01-11,True,True,False,Screen Defect,0,Valid Claim
+CLM-17421,Washing Machine,917,24,2024-03-22,2026-09-02,True,True,False,Hardware Failure,0,Invalid Claim
+CLM-94988,Refrigerator,77,36,2026-07-10,2026-08-17,True,True,False,Software Glitch,0,Valid Claim
+CLM-49820,Refrigerator,170,12,2026-04-08,2026-09-01,True,True,False,Water Damage,0,Manual Review
+CLM-92260,Laptop,91,24,2026-06-26,2026-07-05,True,True,False,Water Damage,0,Manual Review
+CLM-34354,Smartphone,340,12,2025-10-20,2026-04-14,True,True,False,Hardware Failure,0,Valid Claim
+CLM-19787,Washing Machine,55,36,2026-08-01,2026-08-07,True,True,False,Screen Defect,0,Valid Claim
+CLM-29064,Refrigerator,872,12,2024-05-06,2025-11-19,True,True,False,Water Damage,0,Manual Review
+CLM-88831,Washing Machine,745,36,2024-09-10,2025-02-19,True,False,False,Battery Issue,0,Invalid Claim
+CLM-14572,Refrigerator,360,12,2025-09-30,2026-05-23,True,True,False,Water Damage,0,Manual Review
+CLM-63654,Laptop,274,12,2025-12-25,2026-06-27,True,True,False,Hardware Failure,0,Valid Claim
+CLM-99758,Smartphone,1077,36,2023-10-14,2024-10-06,True,True,False,Battery Issue,0,Manual Review
+CLM-69114,Smartphone,554,12,2025-03-20,2026-06-08,True,True,False,Hardware Failure,0,Invalid Claim
+CLM-75388,Washing Machine,728,12,2024-09-27,2025-04-08,True,True,False,Software Glitch,0,Manual Review
+CLM-88153,Smartphone,359,12,2025-10-01,2026-09-23,True,True,False,Battery Issue,0,Manual Review
+CLM-45637,Refrigerator,334,12,2025-10-26,2026-09-23,True,False,False,Software Glitch,0,Invalid Claim
+CLM-12487,Refrigerator,155,24,2026-04-23,2026-09-14,True,True,False,Software Glitch,0,Valid Claim
+CLM-96990,Washing Machine,326,24,2025-11-03,2025-12-31,True,True,False,Water Damage,0,Manual Review
+CLM-32523,Refrigerator,479,36,2025-06-03,2026-04-28,True,True,False,Software Glitch,0,Valid Claim
+CLM-20480,Refrigerator,967,36,2024-02-01,2025-07-07,True,False,False,Software Glitch,0,Invalid Claim
+CLM-29427,Smartphone,18,36,2026-09-07,2026-09-12,True,True,False,Screen Defect,0,Manual Review
+CLM-24191,Refrigerator,286,24,2025-12-13,2026-03-17,True,True,False,Software Glitch,0,Valid Claim
+CLM-88105,Laptop,435,36,2025-07-17,2026-08-01,True,True,False,Battery Issue,0,Valid Claim
+CLM-30446,Smartphone,675,12,2024-11-19,2024-12-06,True,True,False,Water Damage,0,Manual Review
+CLM-90062,Refrigerator,631,12,2025-01-02,2025-06-03,True,True,False,Hardware Failure,0,Manual Review
+CLM-31521,Smartphone,857,36,2024-05-21,2024-06-24,False,True,False,Software Glitch,1,Invalid Claim
+CLM-31002,Washing Machine,332,12,2025-10-28,2026-02-17,True,True,False,Battery Issue,0,Valid Claim
+CLM-25414,Refrigerator,801,12,2024-07-16,2025-08-04,True,False,False,Screen Defect,0,Invalid Claim
+CLM-56543,Laptop,652,12,2024-12-12,2026-03-05,True,True,False,Water Damage,0,Manual Review
+CLM-60600,Smartphone,41,36,2026-08-15,2026-08-20,True,True,False,Battery Issue,0,Valid Claim
+CLM-41337,Laptop,798,36,2024-07-19,2025-12-26,True,True,False,Water Damage,0,Manual Review
+CLM-53101,Laptop,895,12,2024-04-13,2026-03-13,True,True,False,Screen Defect,0,Manual Review
+CLM-89638,Washing Machine,159,24,2026-04-19,2026-06-06,True,True,False,Software Glitch,0,Valid Claim
+CLM-13369,Laptop,761,12,2024-08-25,2024-11-08,True,True,True,Battery Issue,0,Invalid Claim
+CLM-33195,Washing Machine,646,36,2024-12-18,2026-01-16,True,True,False,Battery Issue,0,Valid Claim
+CLM-69098,Smartphone,714,12,2024-10-11,2026-07-16,True,True,True,Hardware Failure,0,Invalid Claim
+CLM-83376,Laptop,572,24,2025-03-02,2026-09-03,False,True,False,Battery Issue,3,Manual Review
+CLM-66144,Smartphone,917,36,2024-03-22,2024-05-04,True,True,False,Hardware Failure,0,Valid Claim
+CLM-16486,Laptop,902,36,2024-04-06,2024-11-03,True,True,True,Software Glitch,0,Invalid Claim
+CLM-12686,Refrigerator,833,36,2024-06-14,2026-03-31,True,True,True,Screen Defect,0,Invalid Claim
+CLM-16189,Laptop,158,36,2026-04-20,2026-04-30,True,True,False,Screen Defect,0,Valid Claim
+CLM-42947,Refrigerator,827,24,2024-06-20,2026-06-26,True,True,False,Screen Defect,0,Invalid Claim
+CLM-65570,Laptop,747,12,2024-09-08,2025-04-18,True,True,False,Battery Issue,0,Valid Claim
+CLM-52002,Refrigerator,228,36,2026-02-09,2026-09-18,True,True,False,Hardware Failure,0,Manual Review
+CLM-97138,Washing Machine,60,36,2026-07-27,2026-09-02,True,False,False,Screen Defect,0,Invalid Claim
+CLM-17583,Refrigerator,932,36,2024-03-07,2025-05-07,False,True,False,Software Glitch,3,Manual Review
+CLM-53931,Laptop,847,12,2024-05-31,2026-06-09,True,True,False,Water Damage,0,Manual Review
+CLM-74165,Washing Machine,311,12,2025-11-18,2025-12-16,True,True,False,Screen Defect,0,Valid Claim
+CLM-88326,Refrigerator,868,12,2024-05-10,2024-08-15,True,True,False,Screen Defect,0,Valid Claim
+CLM-85290,Laptop,1196,36,2023-06-17,2026-03-04,True,True,False,Battery Issue,0,Invalid Claim
+CLM-91176,Refrigerator,1170,36,2023-07-13,2024-11-27,True,True,False,Screen Defect,0,Invalid Claim
+CLM-66229,Smartphone,480,24,2025-06-02,2025-09-16,True,True,False,Software Glitch,0,Valid Claim
+CLM-68311,Smartphone,593,36,2025-02-09,2026-04-13,True,True,False,Battery Issue,0,Manual Review
+CLM-45067,Smartphone,523,12,2025-04-20,2026-09-07,True,True,False,Software Glitch,0,Valid Claim
+CLM-65197,Refrigerator,112,12,2026-06-05,2026-06-15,True,True,False,Water Damage,0,Manual Review
+CLM-55383,Smartphone,828,36,2024-06-19,2025-10-30,True,True,False,Hardware Failure,0,Valid Claim
+CLM-21532,Laptop,605,24,2025-01-28,2026-06-24,True,True,False,Water Damage,0,Manual Review
+CLM-28597,Washing Machine,783,12,2024-08-03,2024-12-24,True,True,False,Hardware Failure,0,Valid Claim
+CLM-68056,Smartphone,679,24,2024-11-15,2025-01-19,True,True,False,Screen Defect,0,Valid Claim
+CLM-36985,Smartphone,494,24,2025-05-19,2026-09-08,True,True,False,Screen Defect,0,Valid Claim
+CLM-73858,Washing Machine,43,24,2026-08-13,2026-09-14,True,True,True,Software Glitch,0,Invalid Claim
+CLM-49157,Washing Machine,867,36,2024-05-11,2026-06-22,True,True,False,Software Glitch,0,Valid Claim
+CLM-38756,Refrigerator,520,36,2025-04-23,2025-12-31,True,True,False,Software Glitch,0,Valid Claim
+CLM-38981,Smartphone,392,36,2025-08-29,2025-10-18,True,True,False,Battery Issue,0,Valid Claim
+CLM-15607,Washing Machine,372,36,2025-09-18,2025-12-14,True,True,False,Software Glitch,0,Manual Review
+CLM-29604,Smartphone,718,24,2024-10-07,2025-11-29,True,True,False,Hardware Failure,0,Manual Review
+CLM-91439,Smartphone,886,24,2024-04-22,2024-12-29,True,False,False,Screen Defect,0,Invalid Claim
+CLM-15746,Refrigerator,655,12,2024-12-09,2025-05-21,True,True,False,Software Glitch,0,Valid Claim
+CLM-37347,Washing Machine,12,36,2026-09-13,2026-09-15,True,True,False,Water Damage,0,Manual Review
+CLM-31970,Smartphone,980,24,2024-01-19,2026-08-06,True,True,False,Battery Issue,0,Manual Review
+CLM-71406,Laptop,1075,36,2023-10-16,2025-03-16,True,True,False,Battery Issue,0,Manual Review
+CLM-51855,Laptop,126,24,2026-05-22,2026-09-01,False,True,False,Battery Issue,1,Manual Review
+CLM-54871,Laptop,819,12,2024-06-28,2025-01-13,True,True,False,Screen Defect,0,Valid Claim
+CLM-71105,Washing Machine,624,36,2025-01-09,2025-11-12,True,True,False,Software Glitch,0,Valid Claim
+CLM-36448,Smartphone,666,24,2024-11-28,2025-08-08,True,False,False,Software Glitch,0,Invalid Claim
+CLM-96849,Washing Machine,526,12,2025-04-17,2025-10-11,True,True,True,Hardware Failure,0,Invalid Claim
+CLM-64365,Laptop,594,36,2025-02-08,2026-07-16,True,True,False,Water Damage,0,Manual Review
+CLM-63582,Laptop,39,12,2026-08-17,2026-09-19,True,False,False,Battery Issue,0,Invalid Claim
+CLM-44920,Refrigerator,237,36,2026-01-31,2026-03-17,True,True,False,Water Damage,0,Manual Review
+CLM-34766,Laptop,628,36,2025-01-05,2025-03-11,True,True,False,Water Damage,0,Manual Review
+CLM-11568,Laptop,823,24,2024-06-24,2026-09-19,True,True,False,Battery Issue,0,Valid Claim
+CLM-97621,Washing Machine,633,36,2024-12-31,2025-10-31,True,True,False,Hardware Failure,0,Valid Claim
+CLM-29873,Refrigerator,709,24,2024-10-16,2025-06-26,False,True,False,Battery Issue,2,Invalid Claim
+CLM-21538,Laptop,1111,36,2023-09-10,2024-06-13,True,True,False,Hardware Failure,0,Invalid Claim
+CLM-77914,Laptop,887,12,2024-04-21,2024-07-29,True,False,False,Screen Defect,0,Invalid Claim
+CLM-25964,Refrigerator,928,36,2024-03-11,2026-08-20,True,False,False,Battery Issue,0,Invalid Claim
+CLM-34965,Refrigerator,383,12,2025-09-07,2026-02-08,True,True,False,Software Glitch,0,Invalid Claim
+CLM-83790,Laptop,660,24,2024-12-04,2025-03-12,True,False,False,Software Glitch,0,Invalid Claim
+CLM-51546,Refrigerator,120,12,2026-05-28,2026-09-09,True,True,False,Battery Issue,0,Manual Review
+CLM-65915,Refrigerator,510,36,2025-05-03,2026-05-11,True,True,True,Battery Issue,0,Invalid Claim
+CLM-95758,Washing Machine,556,12,2025-03-18,2025-11-21,True,True,False,Battery Issue,0,Invalid Claim
+CLM-26118,Laptop,299,12,2025-11-30,2026-02-07,True,True,False,Battery Issue,0,Valid Claim
+CLM-19330,Smartphone,14,24,2026-09-11,2026-09-23,True,True,False,Hardware Failure,0,Manual Review
+CLM-47735,Smartphone,447,12,2025-07-05,2026-07-31,True,True,False,Battery Issue,0,Invalid Claim
+CLM-60583,Smartphone,719,24,2024-10-06,2026-05-14,True,True,False,Software Glitch,0,Manual Review
+CLM-78927,Smartphone,119,12,2026-05-29,2026-07-17,True,True,False,Software Glitch,0,Valid Claim
+CLM-65421,Laptop,755,36,2024-08-31,2026-08-09,True,True,False,Software Glitch,0,Valid Claim
+CLM-92908,Smartphone,900,24,2024-04-08,2024-06-17,True,True,False,Screen Defect,0,Valid Claim
+CLM-99537,Washing Machine,731,12,2024-09-24,2026-03-15,True,True,True,Battery Issue,0,Invalid Claim
+CLM-37938,Washing Machine,130,24,2026-05-18,2026-05-26,False,True,False,Hardware Failure,3,Manual Review
+CLM-38880,Washing Machine,448,24,2025-07-04,2026-01-25,True,True,False,Screen Defect,0,Valid Claim
+CLM-95091,Refrigerator,74,24,2026-07-13,2026-09-23,True,True,False,Software Glitch,0,Valid Claim
+CLM-60134,Smartphone,622,12,2025-01-11,2025-03-04,False,True,False,Hardware Failure,3,Invalid Claim
+CLM-76689,Washing Machine,355,12,2025-10-05,2026-05-05,True,True,False,Hardware Failure,0,Manual Review
+CLM-37834,Smartphone,483,12,2025-05-30,2025-06-16,True,True,False,Screen Defect,0,Manual Review
+CLM-46495,Refrigerator,534,12,2025-04-09,2025-12-30,False,True,False,Hardware Failure,2,Invalid Claim
+CLM-81292,Washing Machine,356,12,2025-10-04,2026-02-21,True,True,False,Hardware Failure,0,Manual Review
+CLM-56167,Washing Machine,1078,36,2023-10-13,2023-11-23,True,True,False,Hardware Failure,0,Manual Review
+CLM-30873,Smartphone,140,36,2026-05-08,2026-06-08,False,True,False,Screen Defect,3,Invalid Claim
+CLM-35897,Washing Machine,785,24,2024-08-01,2025-01-06,False,True,False,Screen Defect,1,Invalid Claim
+CLM-10374,Laptop,1188,36,2023-06-25,2023-12-09,True,True,False,Hardware Failure,0,Invalid Claim
+CLM-65848,Laptop,160,36,2026-04-18,2026-09-10,True,True,False,Hardware Failure,0,Valid Claim
+CLM-92869,Laptop,432,24,2025-07-20,2026-05-07,True,False,False,Screen Defect,0,Invalid Claim
+CLM-58497,Washing Machine,127,12,2026-05-21,2026-07-30,True,True,False,Water Damage,0,Manual Review
+CLM-74286,Laptop,337,24,2025-10-23,2026-01-29,False,True,False,Battery Issue,2,Manual Review
+CLM-78782,Laptop,860,24,2024-05-18,2025-06-30,True,True,False,Software Glitch,0,Invalid Claim
+CLM-39902,Washing Machine,345,36,2025-10-15,2026-06-23,True,True,False,Water Damage,0,Manual Review
+CLM-36801,Washing Machine,272,12,2025-12-27,2026-08-25,True,True,False,Water Damage,0,Manual Review
+CLM-64380,Refrigerator,732,24,2024-09-23,2026-02-27,True,True,False,Screen Defect,0,Valid Claim
+CLM-49010,Washing Machine,523,12,2025-04-20,2025-05-25,True,True,False,Battery Issue,0,Valid Claim
+CLM-59189,Refrigerator,758,24,2024-08-28,2026-02-20,True,True,False,Screen Defect,0,Invalid Claim
+CLM-13641,Smartphone,216,36,2026-02-21,2026-04-24,True,True,False,Battery Issue,0,Valid Claim
+CLM-66316,Washing Machine,959,12,2024-02-09,2026-02-17,True,True,False,Screen Defect,0,Valid Claim
+CLM-46025,Smartphone,965,36,2024-02-03,2024-02-14,True,True,False,Hardware Failure,0,Valid Claim
+CLM-14603,Refrigerator,617,12,2025-01-16,2026-02-04,True,True,False,Hardware Failure,0,Valid Claim
+CLM-19553,Washing Machine,68,12,2026-07-19,2026-07-29,True,False,False,Battery Issue,0,Invalid Claim
+CLM-43050,Refrigerator,370,12,2025-09-20,2026-07-27,True,True,False,Screen Defect,0,Valid Claim
+CLM-41185,Refrigerator,180,36,2026-03-29,2026-08-27,False,True,False,Battery Issue,3,Invalid Claim
+CLM-25305,Smartphone,790,24,2024-07-27,2025-11-16,True,True,False,Hardware Failure,0,Invalid Claim
+CLM-53467,Laptop,356,12,2025-10-04,2026-01-19,True,True,False,Software Glitch,0,Manual Review
+CLM-43680,Washing Machine,696,12,2024-10-29,2025-05-11,True,True,False,Hardware Failure,0,Valid Claim
+CLM-19345,Laptop,417,12,2025-08-04,2026-05-16,False,True,False,Screen Defect,1,Manual Review
+CLM-98575,Washing Machine,998,24,2024-01-01,2025-07-13,True,True,False,Software Glitch,0,Valid Claim
+CLM-33249,Refrigerator,108,36,2026-06-09,2026-08-09,True,True,False,Software Glitch,0,Valid Claim
+CLM-56968,Smartphone,24,24,2026-09-01,2026-09-24,True,True,False,Hardware Failure,0,Valid Claim
+CLM-83036,Washing Machine,657,36,2024-12-07,2024-12-26,False,True,False,Software Glitch,1,Invalid Claim
+CLM-68224,Smartphone,1077,36,2023-10-14,2024-02-05,True,True,False,Screen Defect,0,Manual Review
+CLM-11022,Washing Machine,272,36,2025-12-27,2026-06-12,True,True,False,Water Damage,0,Manual Review
+CLM-82062,Washing Machine,532,36,2025-04-11,2026-02-16,True,True,False,Software Glitch,0,Valid Claim
+CLM-70912,Washing Machine,92,12,2026-06-25,2026-07-05,True,True,False,Hardware Failure,0,Valid Claim
+CLM-34868,Smartphone,634,24,2024-12-30,2026-05-19,False,True,False,Battery Issue,2,Invalid Claim
+CLM-73755,Washing Machine,772,12,2024-08-14,2026-02-16,True,False,False,Battery Issue,0,Invalid Claim
+CLM-32569,Washing Machine,986,12,2024-01-13,2024-12-22,True,True,False,Software Glitch,0,Valid Claim
+CLM-10631,Refrigerator,740,36,2024-09-15,2025-02-09,True,True,True,Software Glitch,0,Invalid Claim
+CLM-50855,Washing Machine,721,36,2024-10-04,2026-08-31,True,True,False,Water Damage,0,Manual Review
+CLM-10460,Smartphone,355,12,2025-10-05,2026-08-07,True,True,False,Battery Issue,0,Manual Review
+CLM-81755,Smartphone,269,24,2025-12-30,2026-08-21,True,False,False,Screen Defect,0,Invalid Claim
+CLM-68342,Washing Machine,537,12,2025-04-06,2026-09-09,True,True,False,Software Glitch,0,Invalid Claim
+CLM-53676,Laptop,1077,36,2023-10-14,2026-09-03,True,True,False,Battery Issue,0,Manual Review
+CLM-13749,Smartphone,695,24,2024-10-30,2026-06-27,False,True,False,Software Glitch,3,Manual Review
+CLM-93356,Washing Machine,523,24,2025-04-20,2025-05-16,False,True,False,Screen Defect,3,Manual Review
+CLM-83161,Refrigerator,716,24,2024-10-09,2025-12-09,True,True,False,Hardware Failure,0,Manual Review
+CLM-90434,Washing Machine,198,24,2026-03-11,2026-09-18,True,True,False,Hardware Failure,0,Manual Review
+CLM-17534,Laptop,584,36,2025-02-18,2026-01-28,True,True,False,Water Damage,0,Manual Review
+CLM-78707,Refrigerator,997,24,2024-01-02,2025-09-19,True,False,False,Screen Defect,0,Invalid Claim
+CLM-46718,Laptop,581,36,2025-02-21,2026-01-21,True,True,False,Hardware Failure,0,Valid Claim
+CLM-13283,Laptop,515,12,2025-04-28,2026-06-24,True,True,False,Hardware Failure,0,Invalid Claim
+CLM-92786,Refrigerator,741,24,2024-09-14,2025-07-23,True,True,False,Software Glitch,0,Valid Claim
+CLM-54032,Refrigerator,1177,36,2023-07-06,2026-01-20,True,True,False,Hardware Failure,0,Invalid Claim
+CLM-52989,Washing Machine,611,12,2025-01-22,2025-02-06,False,True,False,Battery Issue,3,Manual Review
+CLM-69277,Washing Machine,355,12,2025-10-05,2026-02-28,True,True,False,Software Glitch,0,Manual Review
+CLM-62458,Laptop,514,36,2025-04-29,2025-10-18,True,True,False,Screen Defect,0,Manual Review
+CLM-49819,Washing Machine,343,36,2025-10-17,2026-04-03,True,True,True,Software Glitch,0,Invalid Claim
+CLM-30612,Refrigerator,875,24,2024-05-03,2025-02-15,False,True,False,Hardware Failure,3,Invalid Claim
+CLM-42683,Refrigerator,1158,36,2023-07-25,2026-09-25,True,True,False,Screen Defect,0,Invalid Claim
+CLM-54702,Laptop,194,36,2026-03-15,2026-09-18,True,True,False,Hardware Failure,0,Valid Claim
+CLM-62031,Washing Machine,200,36,2026-03-09,2026-05-04,False,True,False,Screen Defect,1,Invalid Claim
+CLM-70175,Smartphone,773,24,2024-08-13,2026-03-24,True,True,False,Software Glitch,0,Valid Claim
+CLM-86903,Smartphone,923,12,2024-03-16,2025-02-04,True,False,False,Hardware Failure,0,Invalid Claim
+CLM-72417,Laptop,1077,36,2023-10-14,2024-11-30,True,True,False,Hardware Failure,0,Manual Review
+CLM-91051,Refrigerator,508,24,2025-05-05,2025-12-28,True,True,False,Water Damage,0,Manual Review
+CLM-39422,Laptop,85,36,2026-07-02,2026-08-28,True,True,False,Screen Defect,0,Valid Claim
+CLM-72358,Laptop,332,24,2025-10-28,2026-02-07,True,True,False,Software Glitch,0,Valid Claim
+CLM-54605,Washing Machine,705,24,2024-10-20,2026-07-22,True,True,False,Hardware Failure,0,Valid Claim
+CLM-81096,Smartphone,359,12,2025-10-01,2026-04-03,True,True,False,Software Glitch,0,Manual Review
+CLM-46884,Smartphone,465,12,2025-06-17,2026-02-28,False,True,False,Software Glitch,3,Invalid Claim
+CLM-96652,Refrigerator,705,12,2024-10-20,2026-04-23,True,True,False,Hardware Failure,0,Valid Claim
+CLM-63226,Washing Machine,656,24,2024-12-08,2026-02-11,True,True,True,Screen Defect,0,Invalid Claim
+CLM-31335,Laptop,590,24,2025-02-12,2025-10-22,True,True,False,Hardware Failure,0,Valid Claim
+CLM-84702,Smartphone,245,12,2026-01-23,2026-09-15,False,True,False,Hardware Failure,1,Invalid Claim
+CLM-10801,Refrigerator,830,24,2024-06-17,2025-03-25,True,True,False,Software Glitch,0,Valid Claim
+CLM-71095,Washing Machine,183,24,2026-03-26,2026-09-12,True,True,False,Software Glitch,0,Valid Claim
+CLM-20729,Laptop,979,24,2024-01-20,2024-09-26,False,True,False,Software Glitch,1,Manual Review
+CLM-78133,Laptop,460,24,2025-06-22,2026-03-10,True,True,False,Hardware Failure,0,Valid Claim
+CLM-47313,Washing Machine,947,24,2024-02-21,2025-12-28,True,True,False,Hardware Failure,0,Valid Claim
+CLM-20499,Washing Machine,66,24,2026-07-21,2026-08-14,True,True,False,Screen Defect,0,Valid Claim
+CLM-65280,Washing Machine,492,12,2025-05-21,2025-07-24,True,True,False,Software Glitch,0,Valid Claim
+CLM-34314,Laptop,769,36,2024-08-17,2025-09-30,False,True,False,Hardware Failure,2,Invalid Claim
+CLM-56411,Refrigerator,392,12,2025-08-29,2025-08-30,True,True,False,Software Glitch,0,Invalid Claim
+CLM-49208,Refrigerator,53,12,2026-08-03,2026-08-12,True,True,True,Screen Defect,0,Invalid Claim
+CLM-59573,Smartphone,255,12,2026-01-13,2026-08-30,True,True,False,Screen Defect,0,Valid Claim
+CLM-92165,Smartphone,150,36,2026-04-28,2026-05-22,True,True,False,Screen Defect,0,Valid Claim
+CLM-57566,Laptop,578,36,2025-02-24,2026-09-05,False,True,False,Software Glitch,1,Invalid Claim
+CLM-19214,Refrigerator,163,12,2026-04-15,2026-07-07,True,True,True,Screen Defect,0,Invalid Claim
+CLM-71407,Laptop,104,12,2026-06-13,2026-07-15,True,True,True,Battery Issue,0,Invalid Claim
+CLM-69479,Washing Machine,386,36,2025-09-04,2025-12-03,True,True,True,Screen Defect,0,Invalid Claim
+CLM-76780,Laptop,965,36,2024-02-03,2025-05-06,False,True,False,Battery Issue,1,Invalid Claim
+CLM-47365,Refrigerator,317,36,2025-11-12,2026-01-24,True,True,False,Battery Issue,0,Valid Claim
+CLM-30482,Refrigerator,510,12,2025-05-03,2025-07-01,True,True,True,Screen Defect,0,Invalid Claim
+CLM-22433,Refrigerator,780,36,2024-08-06,2025-11-06,True,True,False,Water Damage,0,Manual Review
+CLM-49464,Washing Machine,870,24,2024-05-08,2026-06-18,True,True,False,Software Glitch,0,Invalid Claim
+CLM-73673,Smartphone,46,36,2026-08-10,2026-08-26,True,True,False,Screen Defect,0,Valid Claim
+CLM-57908,Refrigerator,823,36,2024-06-24,2026-06-05,False,True,False,Battery Issue,1,Manual Review
+CLM-52235,Laptop,963,24,2024-02-05,2024-03-04,True,True,False,Water Damage,0,Manual Review
+CLM-73120,Washing Machine,105,36,2026-06-12,2026-06-21,True,True,False,Screen Defect,0,Valid Claim
+CLM-14109,Laptop,840,12,2024-06-07,2026-09-14,False,True,False,Screen Defect,1,Invalid Claim
+CLM-37339,Laptop,356,12,2025-10-04,2026-07-10,True,True,False,Software Glitch,0,Valid Claim
+CLM-90635,Laptop,844,24,2024-06-03,2024-08-04,True,True,False,Water Damage,0,Manual Review
+CLM-38311,Laptop,776,24,2024-08-10,2026-08-03,True,True,False,Battery Issue,0,Valid Claim
+CLM-29418,Washing Machine,1078,36,2023-10-13,2025-08-29,True,True,False,Screen Defect,0,Manual Review
+CLM-23419,Smartphone,497,36,2025-05-16,2026-07-06,True,True,False,Water Damage,0,Manual Review
+CLM-59456,Smartphone,725,12,2024-09-30,2026-03-05,True,True,True,Battery Issue,0,Invalid Claim
+CLM-43115,Washing Machine,532,12,2025-04-11,2025-06-05,True,True,False,Battery Issue,0,Invalid Claim
+CLM-38904,Refrigerator,282,36,2025-12-17,2026-06-15,True,False,False,Software Glitch,0,Invalid Claim
+CLM-32878,Refrigerator,395,36,2025-08-26,2026-04-28,True,True,False,Water Damage,0,Manual Review
+CLM-10653,Laptop,940,12,2024-02-28,2024-08-26,False,True,False,Battery Issue,2,Manual Review
+CLM-71010,Smartphone,355,12,2025-10-05,2026-04-13,True,True,False,Hardware Failure,0,Manual Review
+CLM-33074,Smartphone,582,12,2025-02-20,2025-09-09,True,True,False,Water Damage,0,Manual Review
+CLM-59745,Refrigerator,117,12,2026-05-31,2026-06-08,True,True,False,Battery Issue,0,Valid Claim
+CLM-68126,Laptop,326,36,2025-11-03,2026-02-17,True,True,False,Software Glitch,0,Valid Claim
+CLM-86289,Smartphone,1076,36,2023-10-15,2024-02-09,True,True,False,Screen Defect,0,Manual Review
+CLM-96200,Smartphone,908,24,2024-03-31,2024-04-01,True,True,True,Screen Defect,0,Invalid Claim
+CLM-70927,Smartphone,663,24,2024-12-01,2026-07-22,False,True,False,Software Glitch,3,Manual Review
+CLM-60363,Washing Machine,456,24,2025-06-26,2025-09-30,True,False,False,Battery Issue,0,Invalid Claim
+CLM-10810,Laptop,905,12,2024-04-03,2026-07-17,True,True,False,Water Damage,0,Manual Review
+CLM-20898,Smartphone,389,12,2025-09-01,2025-11-04,True,True,False,Software Glitch,0,Valid Claim
+CLM-85815,Washing Machine,723,12,2024-10-02,2026-09-25,True,True,False,Battery Issue,0,Manual Review
+CLM-96021,Laptop,203,36,2026-03-06,2026-04-24,True,True,True,Screen Defect,0,Invalid Claim
+CLM-59338,Smartphone,903,12,2024-04-05,2024-07-27,True,True,False,Hardware Failure,0,Valid Claim
+CLM-52309,Smartphone,357,12,2025-10-03,2026-06-08,True,True,False,Software Glitch,0,Manual Review
+CLM-96385,Smartphone,890,24,2024-04-18,2025-05-25,True,True,False,Screen Defect,0,Valid Claim
+CLM-17968,Refrigerator,867,12,2024-05-11,2026-02-17,True,False,False,Screen Defect,0,Invalid Claim
+CLM-32424,Refrigerator,347,36,2025-10-13,2025-11-17,False,True,False,Screen Defect,2,Invalid Claim
+CLM-17773,Laptop,368,12,2025-09-22,2026-08-18,False,True,False,Battery Issue,3,Invalid Claim
+CLM-19286,Washing Machine,438,12,2025-07-14,2026-04-16,True,True,False,Hardware Failure,0,Invalid Claim
+CLM-78208,Washing Machine,718,24,2024-10-07,2026-09-24,True,True,False,Screen Defect,0,Manual Review
+CLM-64562,Laptop,72,36,2026-07-15,2026-08-15,True,True,False,Software Glitch,0,Valid Claim
+CLM-55278,Laptop,853,24,2024-05-25,2026-07-07,True,True,False,Hardware Failure,0,Invalid Claim
+CLM-84701,Laptop,977,24,2024-01-22,2026-02-17,True,True,False,Software Glitch,0,Valid Claim
+CLM-78581,Laptop,774,36,2024-08-12,2025-12-24,True,True,False,Hardware Failure,0,Valid Claim
+CLM-49850,Smartphone,242,12,2026-01-26,2026-04-11,True,True,False,Software Glitch,0,Valid Claim
+CLM-59301,Refrigerator,1075,36,2023-10-16,2026-08-21,True,True,False,Hardware Failure,0,Manual Review
+CLM-13555,Laptop,67,24,2026-07-20,2026-08-03,True,True,False,Software Glitch,0,Valid Claim
+CLM-27771,Smartphone,583,36,2025-02-19,2026-09-25,True,True,True,Software Glitch,0,Invalid Claim
+CLM-65656,Smartphone,838,12,2024-06-09,2026-06-03,False,True,False,Screen Defect,2,Invalid Claim
+CLM-83526,Washing Machine,389,24,2025-09-01,2026-02-23,False,True,False,Software Glitch,1,Invalid Claim
+CLM-25017,Washing Machine,820,12,2024-06-27,2025-06-21,True,True,True,Screen Defect,0,Invalid Claim
+CLM-79028,Smartphone,280,12,2025-12-19,2026-02-16,False,True,False,Battery Issue,1,Invalid Claim
+CLM-64787,Smartphone,67,12,2026-07-20,2026-09-09,False,True,False,Battery Issue,3,Manual Review
+CLM-73321,Laptop,104,12,2026-06-13,2026-08-08,True,True,False,Screen Defect,0,Valid Claim
+CLM-63006,Washing Machine,131,12,2026-05-17,2026-06-16,True,True,False,Hardware Failure,0,Manual Review
+CLM-40936,Laptop,281,24,2025-12-18,2026-04-20,False,True,False,Screen Defect,1,Invalid Claim
+CLM-11182,Smartphone,548,12,2025-03-26,2025-06-01,True,True,False,Hardware Failure,0,Invalid Claim
+CLM-65669,Smartphone,716,24,2024-10-09,2025-01-23,True,True,False,Software Glitch,0,Manual Review
+CLM-73159,Laptop,292,12,2025-12-07,2025-12-26,False,True,False,Software Glitch,2,Manual Review
+CLM-70239,Refrigerator,169,12,2026-04-09,2026-06-08,False,True,False,Battery Issue,2,Invalid Claim
+CLM-85319,Refrigerator,305,36,2025-11-24,2025-12-22,True,True,False,Battery Issue,0,Valid Claim
+CLM-55737,Washing Machine,973,12,2024-01-26,2024-08-03,True,True,False,Software Glitch,0,Valid Claim
+CLM-94517,Smartphone,385,36,2025-09-05,2025-10-09,True,False,False,Battery Issue,0,Invalid Claim
+CLM-49182,Smartphone,423,36,2025-07-29,2025-09-07,True,True,False,Battery Issue,0,Valid Claim
+CLM-14450,Laptop,840,12,2024-06-07,2024-11-25,True,True,False,Battery Issue,0,Valid Claim
+CLM-88421,Washing Machine,868,12,2024-05-10,2025-06-10,True,True,False,Water Damage,0,Manual Review
+CLM-61868,Refrigerator,89,36,2026-06-28,2026-07-08,True,False,False,Battery Issue,0,Invalid Claim
+CLM-44684,Smartphone,358,12,2025-10-02,2026-08-17,True,True,False,Screen Defect,0,Manual Review
+CLM-35085,Laptop,518,36,2025-04-25,2025-10-05,True,False,False,Battery Issue,0,Invalid Claim
+CLM-58085,Washing Machine,774,24,2024-08-12,2025-11-14,True,True,False,Screen Defect,0,Invalid Claim
+CLM-83318,Smartphone,413,24,2025-08-08,2025-08-26,True,True,False,Battery Issue,0,Manual Review
+CLM-80547,Laptop,396,12,2025-08-25,2025-10-07,True,True,True,Battery Issue,0,Invalid Claim
+CLM-51204,Smartphone,371,12,2025-09-19,2026-01-07,True,True,False,Hardware Failure,0,Invalid Claim
+CLM-45498,Laptop,95,12,2026-06-22,2026-07-12,True,False,False,Screen Defect,0,Invalid Claim
+CLM-24376,Refrigerator,216,12,2026-02-21,2026-06-27,True,True,False,Hardware Failure,0,Manual Review
+CLM-37493,Smartphone,732,36,2024-09-23,2025-02-06,True,True,False,Hardware Failure,0,Valid Claim
+CLM-79024,Washing Machine,835,12,2024-06-12,2024-07-17,True,True,False,Battery Issue,0,Manual Review
+CLM-67042,Laptop,834,12,2024-06-13,2026-05-23,True,True,False,Hardware Failure,0,Valid Claim
+CLM-87696,Smartphone,725,36,2024-09-30,2026-09-07,True,True,True,Screen Defect,0,Invalid Claim
+CLM-34167,Laptop,652,36,2024-12-12,2025-01-15,True,True,False,Software Glitch,0,Valid Claim
+CLM-86106,Smartphone,1077,36,2023-10-14,2026-03-12,True,True,False,Hardware Failure,0,Manual Review
+CLM-52268,Refrigerator,778,36,2024-08-08,2024-09-19,True,True,True,Hardware Failure,0,Invalid Claim
+CLM-76096,Washing Machine,231,12,2026-02-06,2026-09-21,True,True,True,Hardware Failure,0,Invalid Claim
+CLM-93805,Washing Machine,143,12,2026-05-05,2026-09-22,True,True,False,Hardware Failure,0,Valid Claim
+CLM-36300,Smartphone,335,36,2025-10-25,2026-07-12,True,True,False,Battery Issue,0,Valid Claim
+CLM-41241,Laptop,187,24,2026-03-22,2026-07-09,True,True,True,Screen Defect,0,Invalid Claim
+CLM-29601,Laptop,761,36,2024-08-25,2026-09-18,True,True,False,Battery Issue,0,Valid Claim
+CLM-32156,Washing Machine,419,36,2025-08-02,2025-09-15,True,True,False,Hardware Failure,0,Valid Claim
+CLM-20685,Refrigerator,845,24,2024-06-02,2024-10-30,False,True,False,Screen Defect,1,Invalid Claim
+CLM-39592,Smartphone,884,36,2024-04-24,2024-09-20,True,True,False,Hardware Failure,0,Valid Claim
+CLM-51749,Smartphone,240,24,2026-01-28,2026-02-10,False,True,False,Screen Defect,2,Invalid Claim
+CLM-70308,Refrigerator,208,12,2026-03-01,2026-09-21,False,True,False,Hardware Failure,1,Manual Review
+CLM-50913,Smartphone,647,36,2024-12-17,2025-04-05,True,True,False,Battery Issue,0,Valid Claim
+CLM-70794,Washing Machine,356,12,2025-10-04,2025-10-16,True,True,False,Battery Issue,0,Manual Review
+CLM-98473,Refrigerator,719,12,2024-10-06,2025-04-13,False,True,False,Hardware Failure,2,Manual Review
+CLM-57211,Laptop,815,24,2024-07-02,2024-07-07,True,True,False,Hardware Failure,0,Invalid Claim
+CLM-67268,Refrigerator,496,24,2025-05-17,2025-12-07,False,True,False,Hardware Failure,1,Manual Review
+CLM-31210,Smartphone,31,24,2026-08-25,2026-09-04,True,True,False,Battery Issue,0,Valid Claim
+CLM-37167,Washing Machine,111,12,2026-06-06,2026-09-20,True,True,False,Battery Issue,0,Manual Review
+CLM-82639,Laptop,498,24,2025-05-15,2026-01-04,True,True,False,Battery Issue,0,Manual Review
+CLM-71906,Washing Machine,583,24,2025-02-19,2026-09-25,True,True,False,Water Damage,0,Manual Review
+CLM-67332,Smartphone,564,36,2025-03-10,2026-05-15,True,True,True,Battery Issue,0,Invalid Claim
+CLM-14770,Laptop,638,12,2024-12-26,2025-05-21,True,True,False,Screen Defect,0,Valid Claim
+CLM-92810,Smartphone,707,12,2024-10-18,2026-01-10,True,True,False,Screen Defect,0,Valid Claim
+CLM-98695,Laptop,405,36,2025-08-16,2026-07-12,True,True,False,Battery Issue,0,Valid Claim
+CLM-99089,Laptop,508,24,2025-05-05,2026-03-25,False,True,False,Software Glitch,1,Invalid Claim
+CLM-86945,Smartphone,325,12,2025-11-04,2026-05-08,True,True,False,Software Glitch,0,Valid Claim
+CLM-44127,Laptop,980,24,2024-01-19,2025-11-01,True,True,False,Water Damage,0,Manual Review
+CLM-52413,Smartphone,861,36,2024-05-17,2024-07-25,True,True,False,Hardware Failure,0,Valid Claim
+CLM-98519,Refrigerator,109,36,2026-06-08,2026-08-18,True,True,False,Hardware Failure,0,Valid Claim
+CLM-21674,Laptop,330,36,2025-10-30,2026-08-29,True,False,False,Screen Defect,0,Invalid Claim
+CLM-49053,Smartphone,1183,36,2023-06-30,2023-11-08,True,True,False,Hardware Failure,0,Invalid Claim
+CLM-93627,Washing Machine,101,36,2026-06-16,2026-08-25,True,False,False,Battery Issue,0,Invalid Claim
+CLM-28932,Laptop,515,36,2025-04-28,2025-11-09,True,False,False,Battery Issue,0,Invalid Claim
+CLM-48003,Refrigerator,813,24,2024-07-04,2024-09-03,False,True,False,Hardware Failure,1,Invalid Claim
+CLM-38398,Refrigerator,18,12,2026-09-07,2026-09-10,True,True,False,Water Damage,0,Manual Review
+CLM-78697,Refrigerator,433,12,2025-07-19,2026-09-11,True,True,False,Screen Defect,0,Valid Claim
+CLM-21257,Laptop,147,12,2026-05-01,2026-08-29,True,True,False,Battery Issue,0,Valid Claim
+CLM-64823,Washing Machine,410,36,2025-08-11,2026-08-27,True,False,False,Battery Issue,0,Invalid Claim
+CLM-81412,Smartphone,716,24,2024-10-09,2025-05-31,True,True,False,Screen Defect,0,Manual Review
+CLM-49416,Washing Machine,357,12,2025-10-03,2025-10-25,True,True,False,Screen Defect,0,Manual Review
+CLM-66287,Refrigerator,894,12,2024-04-14,2025-03-15,True,True,False,Hardware Failure,0,Valid Claim
+CLM-38488,Smartphone,55,36,2026-08-01,2026-08-05,True,True,True,Battery Issue,0,Invalid Claim
+CLM-31924,Refrigerator,277,24,2025-12-22,2026-07-14,False,True,False,Battery Issue,2,Manual Review
+CLM-71474,Washing Machine,158,12,2026-04-20,2026-08-06,False,True,False,Software Glitch,3,Invalid Claim
+CLM-72019,Refrigerator,756,24,2024-08-30,2025-07-18,True,True,True,Screen Defect,0,Invalid Claim
+CLM-71481,Washing Machine,740,24,2024-09-15,2026-02-28,True,True,False,Hardware Failure,0,Valid Claim
+CLM-42308,Refrigerator,716,24,2024-10-09,2026-06-25,True,True,False,Screen Defect,0,Manual Review
+CLM-80046,Smartphone,272,24,2025-12-27,2026-04-19,True,False,False,Battery Issue,0,Invalid Claim
+CLM-68622,Washing Machine,530,12,2025-04-13,2025-08-31,True,True,False,Screen Defect,0,Invalid Claim
+CLM-75993,Smartphone,203,36,2026-03-06,2026-04-30,True,True,False,Software Glitch,0,Valid Claim
+CLM-65389,Laptop,456,36,2025-06-26,2026-08-19,True,False,False,Hardware Failure,0,Invalid Claim
+CLM-84042,Refrigerator,1150,36,2023-08-02,2025-08-09,True,True,False,Screen Defect,0,Invalid Claim
+CLM-55279,Refrigerator,199,12,2026-03-10,2026-07-13,True,False,False,Battery Issue,0,Invalid Claim
+CLM-66370,Laptop,982,12,2024-01-17,2026-09-02,True,True,False,Screen Defect,0,Valid Claim
+CLM-94840,Refrigerator,85,24,2026-07-02,2026-07-27,True,False,False,Screen Defect,0,Invalid Claim
+CLM-34503,Laptop,716,24,2024-10-09,2025-06-10,True,True,False,Software Glitch,0,Manual Review
+CLM-86295,Refrigerator,751,12,2024-09-04,2025-10-13,True,True,False,Screen Defect,0,Valid Claim
+CLM-96407,Smartphone,788,12,2024-07-29,2026-03-08,True,True,True,Battery Issue,0,Invalid Claim
+CLM-22855,Washing Machine,324,12,2025-11-05,2025-11-27,True,True,False,Screen Defect,0,Manual Review
+CLM-51455,Smartphone,1260,36,2023-04-14,2025-02-20,True,True,False,Hardware Failure,0,Invalid Claim
+CLM-45992,Smartphone,568,24,2025-03-06,2026-06-10,False,True,False,Hardware Failure,2,Manual Review
+CLM-30664,Refrigerator,129,12,2026-05-19,2026-09-07,False,True,False,Battery Issue,2,Invalid Claim
+CLM-80877,Laptop,953,36,2024-02-15,2024-05-10,True,True,True,Battery Issue,0,Invalid Claim
+CLM-82890,Smartphone,858,24,2024-05-20,2026-05-19,True,False,False,Software Glitch,0,Invalid Claim
+CLM-88539,Smartphone,849,24,2024-05-29,2025-11-18,True,True,False,Water Damage,0,Manual Review
+CLM-51594,Washing Machine,103,12,2026-06-14,2026-09-24,True,True,False,Screen Defect,0,Valid Claim
+CLM-65662,Laptop,217,36,2026-02-20,2026-06-05,False,True,False,Hardware Failure,2,Manual Review
+CLM-17142,Washing Machine,1078,36,2023-10-13,2025-06-03,True,True,False,Battery Issue,0,Manual Review
+CLM-53577,Washing Machine,359,12,2025-10-01,2025-11-03,True,True,False,Software Glitch,0,Manual Review
+CLM-38333,Smartphone,607,36,2025-01-26,2025-09-27,True,True,False,Screen Defect,0,Manual Review
+CLM-62342,Washing Machine,472,12,2025-06-10,2025-09-06,True,True,False,Hardware Failure,0,Valid Claim
+CLM-45937,Smartphone,525,36,2025-04-18,2026-08-13,True,True,False,Water Damage,0,Manual Review
+CLM-97976,Smartphone,583,36,2025-02-19,2025-11-22,True,True,False,Water Damage,0,Manual Review
+CLM-77692,Laptop,987,36,2024-01-12,2026-09-14,True,True,True,Hardware Failure,0,Invalid Claim
+CLM-96159,Smartphone,728,12,2024-09-27,2026-07-13,True,True,False,Battery Issue,0,Valid Claim
+CLM-71657,Laptop,488,36,2025-05-25,2026-09-06,False,True,False,Screen Defect,1,Invalid Claim
+CLM-58500,Refrigerator,41,12,2026-08-15,2026-08-24,True,True,True,Hardware Failure,0,Invalid Claim
+CLM-31379,Washing Machine,699,12,2024-10-26,2024-12-15,True,True,True,Screen Defect,0,Invalid Claim
+CLM-12625,Refrigerator,372,12,2025-09-18,2025-12-04,True,True,False,Software Glitch,0,Manual Review
+CLM-13038,Washing Machine,643,24,2024-12-21,2025-01-19,True,True,False,Battery Issue,0,Valid Claim
+CLM-21238,Refrigerator,355,36,2025-10-05,2026-01-27,True,True,False,Screen Defect,0,Valid Claim
+CLM-47282,Washing Machine,971,12,2024-01-28,2026-08-30,True,True,False,Water Damage,0,Manual Review
+CLM-71732,Smartphone,193,36,2026-03-16,2026-07-26,True,True,True,Software Glitch,0,Invalid Claim
+CLM-58688,Washing Machine,270,24,2025-12-29,2026-04-15,True,True,False,Screen Defect,0,Manual Review
+CLM-22991,Washing Machine,135,36,2026-05-13,2026-08-15,False,True,False,Battery Issue,2,Manual Review
+CLM-93247,Smartphone,706,24,2024-10-19,2026-05-10,False,True,False,Hardware Failure,3,Invalid Claim
+CLM-15385,Washing Machine,613,24,2025-01-20,2025-05-23,True,True,False,Screen Defect,0,Valid Claim
+CLM-60797,Laptop,1078,36,2023-10-13,2024-07-29,True,True,False,Software Glitch,0,Manual Review
+CLM-91102,Refrigerator,976,36,2024-01-23,2025-11-21,True,True,True,Hardware Failure,0,Invalid Claim
+CLM-27479,Washing Machine,490,12,2025-05-23,2025-09-29,True,False,False,Software Glitch,0,Invalid Claim
+CLM-37045,Refrigerator,838,36,2024-06-09,2025-03-20,True,True,False,Water Damage,0,Manual Review
+CLM-72744,Laptop,120,36,2026-05-28,2026-08-20,True,True,False,Battery Issue,0,Valid Claim
+CLM-55337,Smartphone,649,36,2024-12-15,2026-06-06,True,True,True,Hardware Failure,0,Invalid Claim
+CLM-97441,Washing Machine,696,24,2024-10-29,2024-12-11,True,False,False,Software Glitch,0,Invalid Claim
+CLM-37461,Refrigerator,805,24,2024-07-12,2025-09-20,True,True,False,Hardware Failure,0,Invalid Claim
+CLM-76751,Refrigerator,576,12,2025-02-26,2025-06-12,True,True,False,Software Glitch,0,Valid Claim
+CLM-49096,Washing Machine,934,24,2024-03-05,2025-03-07,True,True,False,Battery Issue,0,Manual Review
+CLM-91085,Smartphone,251,12,2026-01-17,2026-06-07,True,True,False,Battery Issue,0,Valid Claim
+CLM-28259,Laptop,933,36,2024-03-06,2026-08-23,True,False,False,Screen Defect,0,Invalid Claim
+CLM-76311,Smartphone,585,36,2025-02-17,2026-01-29,True,True,False,Software Glitch,0,Valid Claim
+CLM-16035,Smartphone,424,24,2025-07-28,2026-08-31,True,True,False,Battery Issue,0,Valid Claim
+CLM-82904,Smartphone,240,24,2026-01-28,2026-06-19,False,True,False,Screen Defect,3,Invalid Claim
+CLM-71186,Laptop,736,12,2024-09-19,2025-03-27,True,True,False,Software Glitch,0,Valid Claim
+CLM-27464,Laptop,906,24,2024-04-02,2026-02-18,True,True,False,Battery Issue,0,Invalid Claim
+CLM-96486,Laptop,731,12,2024-09-24,2026-01-02,True,True,False,Hardware Failure,0,Valid Claim
+CLM-35270,Washing Machine,165,36,2026-04-13,2026-07-24,True,True,True,Screen Defect,0,Invalid Claim
+CLM-38256,Smartphone,974,24,2024-01-25,2025-07-23,False,True,False,Screen Defect,3,Invalid Claim
+CLM-37714,Smartphone,688,36,2024-11-06,2025-01-22,True,True,False,Software Glitch,0,Valid Claim
+CLM-42196,Laptop,444,36,2025-07-08,2025-12-04,True,True,False,Battery Issue,0,Valid Claim
+CLM-97582,Smartphone,1076,36,2023-10-15,2026-09-07,True,True,False,Battery Issue,0,Manual Review
+CLM-93722,Laptop,1079,36,2023-10-12,2024-03-17,True,True,False,Software Glitch,0,Manual Review
+CLM-69210,Smartphone,182,24,2026-03-27,2026-09-13,False,True,False,Screen Defect,1,Manual Review
+CLM-45334,Refrigerator,1251,36,2023-04-23,2024-06-05,True,True,False,Software Glitch,0,Invalid Claim
+CLM-21237,Smartphone,418,12,2025-08-03,2026-05-07,True,True,False,Water Damage,0,Manual Review
+CLM-60025,Refrigerator,716,24,2024-10-09,2025-03-14,True,True,False,Hardware Failure,0,Manual Review
+CLM-85373,Refrigerator,715,24,2024-10-10,2025-11-14,True,True,False,Software Glitch,0,Manual Review
+CLM-88241,Refrigerator,718,24,2024-10-07,2026-04-15,True,True,False,Hardware Failure,0,Manual Review
+CLM-66333,Washing Machine,440,36,2025-07-12,2026-01-30,True,True,False,Hardware Failure,0,Valid Claim
+CLM-83674,Smartphone,884,12,2024-04-24,2026-01-21,True,True,False,Water Damage,0,Manual Review
+CLM-49836,Refrigerator,421,12,2025-07-31,2025-08-01,True,True,False,Battery Issue,0,Invalid Claim
+CLM-87198,Laptop,418,12,2025-08-03,2025-10-19,True,True,False,Battery Issue,0,Invalid Claim
+CLM-86771,Refrigerator,42,24,2026-08-14,2026-09-07,True,True,True,Software Glitch,0,Invalid Claim
+CLM-90735,Washing Machine,358,12,2025-10-02,2026-01-25,True,True,False,Battery Issue,0,Manual Review
+CLM-81499,Washing Machine,355,12,2025-10-05,2025-11-25,True,True,False,Battery Issue,0,Manual Review
+CLM-42456,Laptop,508,12,2025-05-05,2026-04-09,True,True,False,Screen Defect,0,Invalid Claim
+CLM-96450,Refrigerator,334,12,2025-10-26,2026-01-13,True,True,False,Software Glitch,0,Valid Claim
+CLM-98019,Refrigerator,1077,36,2023-10-14,2026-03-31,True,True,False,Battery Issue,0,Manual Review
+CLM-15612,Smartphone,1209,36,2023-06-04,2024-11-02,True,True,False,Battery Issue,0,Invalid Claim
+CLM-97807,Laptop,140,12,2026-05-08,2026-06-05,True,True,False,Battery Issue,0,Valid Claim
+CLM-72612,Laptop,920,12,2024-03-19,2025-02-25,True,True,False,Battery Issue,0,Valid Claim
+CLM-52084,Smartphone,662,36,2024-12-02,2025-09-17,True,True,False,Battery Issue,0,Valid Claim
+CLM-61021,Smartphone,148,36,2026-04-30,2026-08-03,False,True,False,Screen Defect,3,Invalid Claim
+CLM-91186,Refrigerator,664,12,2024-11-30,2026-03-01,False,True,False,Hardware Failure,3,Manual Review
+CLM-65156,Washing Machine,760,36,2024-08-26,2025-04-15,False,True,False,Screen Defect,2,Invalid Claim
+CLM-25390,Refrigerator,958,12,2024-02-10,2025-01-29,True,True,False,Software Glitch,0,Valid Claim
+CLM-50575,Refrigerator,319,24,2025-11-10,2026-08-14,True,True,False,Software Glitch,0,Valid Claim
+CLM-14568,Washing Machine,979,24,2024-01-20,2026-05-10,True,True,False,Water Damage,0,Manual Review
+CLM-49576,Washing Machine,56,12,2026-07-31,2026-09-03,True,True,False,Hardware Failure,0,Manual Review

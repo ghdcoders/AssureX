@@ -1,0 +1,27 @@
+{
+    "policies": {
+        "Laptop": {
+            "max_age_days_standard": 365,
+            "max_age_days_extended": 1095,
+            "covered_faults": ["Hardware Failure", "Screen Defect", "Battery Issue"],
+            "exclusions": ["Water Damage", "Physical Breakage"],
+            "requires_receipt": true,
+            "requires_serial_match": true,
+            "allow_unauthorized_repair": false
+        },
+        "Smartphone": {
+            "max_age_days_standard": 365,
+            "max_age_days_extended": 730,
+            "covered_faults": ["Hardware Failure", "Software Glitch", "Battery Issue"],
+            "exclusions": ["Water Damage", "Screen Defect"],
+            "requires_receipt": true,
+            "requires_serial_match": true,
+            "allow_unauthorized_repair": false
+        }
+    },
+    "confidence_thresholds": {
+        "strong_match_diff": 5.0,
+        "acceptable_match_diff": 15.0,
+        "minimum_valid_confidence": 75.0
+    }
+}
